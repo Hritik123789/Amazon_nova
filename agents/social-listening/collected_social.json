@@ -1,0 +1,891 @@
+[
+  {
+    "id": "post-20000",
+    "source": "nextdoor",
+    "author": "user767",
+    "content": "Discussion about schools in the neighborhood",
+    "sentiment": "positive",
+    "topics": [
+      "schools",
+      "parks",
+      "noise"
+    ],
+    "posted_at": "2026-02-25T00:27:24.769787",
+    "engagement": {
+      "likes": 9,
+      "comments": 2,
+      "shares": 6
+    },
+    "location_mentioned": "Valencia St"
+  },
+  {
+    "id": "post-20001",
+    "source": "twitter",
+    "author": "user375",
+    "content": "That place on Haight St has amazing food",
+    "sentiment": "neutral",
+    "topics": [
+      "restaurants"
+    ],
+    "posted_at": "2026-02-27T12:27:24.769787",
+    "engagement": {
+      "likes": 44,
+      "comments": 34,
+      "shares": 6
+    },
+    "location_mentioned": "Castro St"
+  },
+  {
+    "id": "post-20002",
+    "source": "reddit",
+    "author": "user328",
+    "content": "Impossible to find parking near Haight St anymore",
+    "sentiment": "negative",
+    "topics": [
+      "parking",
+      "parks"
+    ],
+    "posted_at": "2026-03-02T01:27:24.769787",
+    "engagement": {
+      "likes": 43,
+      "comments": 6,
+      "shares": 17
+    },
+    "location_mentioned": "Haight St"
+  },
+  {
+    "id": "post-20003",
+    "source": "reddit",
+    "author": "user499",
+    "content": "Discussion about schools in the neighborhood",
+    "sentiment": "negative",
+    "topics": [
+      "schools",
+      "safety",
+      "events"
+    ],
+    "posted_at": "2026-02-24T12:27:24.769787",
+    "engagement": {
+      "likes": 85,
+      "comments": 12,
+      "shares": 3
+    },
+    "location_mentioned": "Castro St"
+  },
+  {
+    "id": "post-20004",
+    "source": "facebook",
+    "author": "user175",
+    "content": "Discussion about events in the neighborhood",
+    "sentiment": "neutral",
+    "topics": [
+      "events"
+    ],
+    "posted_at": "2026-03-01T02:27:24.769787",
+    "engagement": {
+      "likes": 66,
+      "comments": 10,
+      "shares": 4
+    },
+    "location_mentioned": "Mission St"
+  },
+  {
+    "id": "post-20005",
+    "source": "facebook",
+    "author": "user141",
+    "content": "Discussion about noise in the neighborhood",
+    "sentiment": "negative",
+    "topics": [
+      "noise",
+      "traffic"
+    ],
+    "posted_at": "2026-02-28T09:27:24.769787",
+    "engagement": {
+      "likes": 24,
+      "comments": 11,
+      "shares": 16
+    },
+    "location_mentioned": null
+  },
+  {
+    "id": "post-20006",
+    "source": "reddit",
+    "author": "user987",
+    "content": "New building going up on Haight St, looks interesting",
+    "sentiment": "neutral",
+    "topics": [
+      "construction"
+    ],
+    "posted_at": "2026-02-26T05:27:24.769787",
+    "engagement": {
+      "likes": 84,
+      "comments": 5,
+      "shares": 18
+    },
+    "location_mentioned": "Market St"
+  },
+  {
+    "id": "post-20007",
+    "source": "nextdoor",
+    "author": "user345",
+    "content": "Restaurant on Haight St closed down, so sad",
+    "sentiment": "positive",
+    "topics": [
+      "restaurants",
+      "schools",
+      "crime"
+    ],
+    "posted_at": "2026-02-25T01:27:24.769787",
+    "engagement": {
+      "likes": 70,
+      "comments": 13,
+      "shares": 8
+    },
+    "location_mentioned": "Valencia St"
+  },
+  {
+    "id": "post-20008",
+    "source": "twitter",
+    "author": "user495",
+    "content": "Discussion about events in the neighborhood",
+    "sentiment": "positive",
+    "topics": [
+      "events",
+      "parking",
+      "crime"
+    ],
+    "posted_at": "2026-03-02T09:27:24.769787",
+    "engagement": {
+      "likes": 26,
+      "comments": 20,
+      "shares": 7
+    },
+    "location_mentioned": "Castro St"
+  },
+  {
+    "id": "post-20009",
+    "source": "facebook",
+    "author": "user365",
+    "content": "Impossible to find parking near Haight St anymore",
+    "sentiment": "neutral",
+    "topics": [
+      "parking",
+      "parks",
+      "safety"
+    ],
+    "posted_at": "2026-02-26T05:27:24.769787",
+    "engagement": {
+      "likes": 57,
+      "comments": 26,
+      "shares": 15
+    },
+    "location_mentioned": "Market St"
+  },
+  {
+    "id": "post-20010",
+    "source": "nextdoor",
+    "author": "user769",
+    "content": "Discussion about noise in the neighborhood",
+    "sentiment": "negative",
+    "topics": [
+      "noise"
+    ],
+    "posted_at": "2026-03-01T12:27:24.769787",
+    "engagement": {
+      "likes": 55,
+      "comments": 34,
+      "shares": 11
+    },
+    "location_mentioned": null
+  },
+  {
+    "id": "post-20011",
+    "source": "nextdoor",
+    "author": "user441",
+    "content": "PSA: Free parking on Market St after 6pm",
+    "sentiment": "neutral",
+    "topics": [
+      "parking",
+      "events"
+    ],
+    "posted_at": "2026-02-25T10:27:24.769787",
+    "engagement": {
+      "likes": 8,
+      "comments": 49,
+      "shares": 8
+    },
+    "location_mentioned": "Market St"
+  },
+  {
+    "id": "post-20012",
+    "source": "reddit",
+    "author": "user162",
+    "content": "Discussion about events in the neighborhood",
+    "sentiment": "positive",
+    "topics": [
+      "events",
+      "noise"
+    ],
+    "posted_at": "2026-02-26T06:27:24.769787",
+    "engagement": {
+      "likes": 34,
+      "comments": 7,
+      "shares": 19
+    },
+    "location_mentioned": null
+  },
+  {
+    "id": "post-20013",
+    "source": "facebook",
+    "author": "user612",
+    "content": "Discussion about noise in the neighborhood",
+    "sentiment": "negative",
+    "topics": [
+      "noise",
+      "events",
+      "traffic"
+    ],
+    "posted_at": "2026-03-01T07:27:24.769787",
+    "engagement": {
+      "likes": 62,
+      "comments": 0,
+      "shares": 16
+    },
+    "location_mentioned": null
+  },
+  {
+    "id": "post-20014",
+    "source": "facebook",
+    "author": "user610",
+    "content": "Discussion about crime in the neighborhood",
+    "sentiment": "negative",
+    "topics": [
+      "crime"
+    ],
+    "posted_at": "2026-02-27T22:27:24.769787",
+    "engagement": {
+      "likes": 94,
+      "comments": 8,
+      "shares": 19
+    },
+    "location_mentioned": "Castro St"
+  },
+  {
+    "id": "post-20015",
+    "source": "nextdoor",
+    "author": "user717",
+    "content": "Neighborhood watch meeting about Mission St safety",
+    "sentiment": "neutral",
+    "topics": [
+      "safety"
+    ],
+    "posted_at": "2026-02-27T03:27:24.769787",
+    "engagement": {
+      "likes": 19,
+      "comments": 48,
+      "shares": 8
+    },
+    "location_mentioned": null
+  },
+  {
+    "id": "post-20016",
+    "source": "facebook",
+    "author": "user480",
+    "content": "New parking restrictions on Market St are ridiculous",
+    "sentiment": "negative",
+    "topics": [
+      "parking"
+    ],
+    "posted_at": "2026-02-27T16:27:24.769787",
+    "engagement": {
+      "likes": 72,
+      "comments": 40,
+      "shares": 2
+    },
+    "location_mentioned": "Castro St"
+  },
+  {
+    "id": "post-20017",
+    "source": "reddit",
+    "author": "user658",
+    "content": "Discussion about events in the neighborhood",
+    "sentiment": "positive",
+    "topics": [
+      "events",
+      "schools"
+    ],
+    "posted_at": "2026-02-26T17:27:24.769787",
+    "engagement": {
+      "likes": 58,
+      "comments": 7,
+      "shares": 1
+    },
+    "location_mentioned": null
+  },
+  {
+    "id": "post-20018",
+    "source": "nextdoor",
+    "author": "user948",
+    "content": "New restaurant opening on Haight St next week!",
+    "sentiment": "positive",
+    "topics": [
+      "restaurants",
+      "construction"
+    ],
+    "posted_at": "2026-02-24T11:27:24.769787",
+    "engagement": {
+      "likes": 15,
+      "comments": 37,
+      "shares": 2
+    },
+    "location_mentioned": null
+  },
+  {
+    "id": "post-20019",
+    "source": "facebook",
+    "author": "user212",
+    "content": "That place on Castro St has amazing food",
+    "sentiment": "positive",
+    "topics": [
+      "restaurants",
+      "events"
+    ],
+    "posted_at": "2026-02-25T22:27:24.769787",
+    "engagement": {
+      "likes": 84,
+      "comments": 39,
+      "shares": 17
+    },
+    "location_mentioned": null
+  },
+  {
+    "id": "post-20020",
+    "source": "nextdoor",
+    "author": "user180",
+    "content": "Saw a break-in on Valencia St last night, be careful",
+    "sentiment": "neutral",
+    "topics": [
+      "safety"
+    ],
+    "posted_at": "2026-02-28T19:27:24.769787",
+    "engagement": {
+      "likes": 19,
+      "comments": 37,
+      "shares": 2
+    },
+    "location_mentioned": "Mission St"
+  },
+  {
+    "id": "post-20021",
+    "source": "reddit",
+    "author": "user527",
+    "content": "Discussion about crime in the neighborhood",
+    "sentiment": "negative",
+    "topics": [
+      "crime",
+      "construction",
+      "events"
+    ],
+    "posted_at": "2026-02-27T17:27:24.769787",
+    "engagement": {
+      "likes": 54,
+      "comments": 50,
+      "shares": 16
+    },
+    "location_mentioned": null
+  },
+  {
+    "id": "post-20022",
+    "source": "facebook",
+    "author": "user355",
+    "content": "Discussion about crime in the neighborhood",
+    "sentiment": "negative",
+    "topics": [
+      "crime",
+      "traffic"
+    ],
+    "posted_at": "2026-02-27T02:27:24.769787",
+    "engagement": {
+      "likes": 31,
+      "comments": 34,
+      "shares": 19
+    },
+    "location_mentioned": "Market St"
+  },
+  {
+    "id": "post-20023",
+    "source": "reddit",
+    "author": "user428",
+    "content": "Discussion about parks in the neighborhood",
+    "sentiment": "neutral",
+    "topics": [
+      "parks"
+    ],
+    "posted_at": "2026-02-27T08:27:24.769787",
+    "engagement": {
+      "likes": 15,
+      "comments": 44,
+      "shares": 13
+    },
+    "location_mentioned": null
+  },
+  {
+    "id": "post-20024",
+    "source": "nextdoor",
+    "author": "user222",
+    "content": "New restaurant opening on Haight St next week!",
+    "sentiment": "positive",
+    "topics": [
+      "restaurants",
+      "schools"
+    ],
+    "posted_at": "2026-02-28T02:27:24.769787",
+    "engagement": {
+      "likes": 73,
+      "comments": 43,
+      "shares": 13
+    },
+    "location_mentioned": "Valencia St"
+  },
+  {
+    "id": "post-20025",
+    "source": "twitter",
+    "author": "user109",
+    "content": "Discussion about events in the neighborhood",
+    "sentiment": "positive",
+    "topics": [
+      "events"
+    ],
+    "posted_at": "2026-02-27T19:27:24.769787",
+    "engagement": {
+      "likes": 22,
+      "comments": 43,
+      "shares": 1
+    },
+    "location_mentioned": null
+  },
+  {
+    "id": "post-20026",
+    "source": "twitter",
+    "author": "user521",
+    "content": "Discussion about parks in the neighborhood",
+    "sentiment": "positive",
+    "topics": [
+      "parks",
+      "construction"
+    ],
+    "posted_at": "2026-02-26T22:27:24.769787",
+    "engagement": {
+      "likes": 53,
+      "comments": 27,
+      "shares": 18
+    },
+    "location_mentioned": null
+  },
+  {
+    "id": "post-20027",
+    "source": "nextdoor",
+    "author": "user469",
+    "content": "Discussion about parks in the neighborhood",
+    "sentiment": "positive",
+    "topics": [
+      "parks"
+    ],
+    "posted_at": "2026-02-28T01:27:24.769787",
+    "engagement": {
+      "likes": 99,
+      "comments": 21,
+      "shares": 17
+    },
+    "location_mentioned": "Market St"
+  },
+  {
+    "id": "post-20028",
+    "source": "nextdoor",
+    "author": "user845",
+    "content": "That place on Haight St has amazing food",
+    "sentiment": "positive",
+    "topics": [
+      "restaurants"
+    ],
+    "posted_at": "2026-02-25T01:27:24.769787",
+    "engagement": {
+      "likes": 3,
+      "comments": 35,
+      "shares": 13
+    },
+    "location_mentioned": null
+  },
+  {
+    "id": "post-20029",
+    "source": "nextdoor",
+    "author": "user520",
+    "content": "Discussion about crime in the neighborhood",
+    "sentiment": "neutral",
+    "topics": [
+      "crime",
+      "parking",
+      "noise"
+    ],
+    "posted_at": "2026-02-26T16:27:24.769787",
+    "engagement": {
+      "likes": 62,
+      "comments": 7,
+      "shares": 20
+    },
+    "location_mentioned": "Mission St"
+  },
+  {
+    "id": "post-20030",
+    "source": "reddit",
+    "author": "user675",
+    "content": "Discussion about events in the neighborhood",
+    "sentiment": "positive",
+    "topics": [
+      "events",
+      "safety"
+    ],
+    "posted_at": "2026-03-01T00:27:24.769787",
+    "engagement": {
+      "likes": 85,
+      "comments": 28,
+      "shares": 17
+    },
+    "location_mentioned": "Valencia St"
+  },
+  {
+    "id": "post-20031",
+    "source": "nextdoor",
+    "author": "user551",
+    "content": "Major traffic jam on Castro St due to construction",
+    "sentiment": "negative",
+    "topics": [
+      "traffic"
+    ],
+    "posted_at": "2026-02-25T04:27:24.769787",
+    "engagement": {
+      "likes": 15,
+      "comments": 49,
+      "shares": 6
+    },
+    "location_mentioned": null
+  },
+  {
+    "id": "post-20032",
+    "source": "twitter",
+    "author": "user384",
+    "content": "Anyone know why traffic is so bad on Valencia St?",
+    "sentiment": "negative",
+    "topics": [
+      "traffic",
+      "safety"
+    ],
+    "posted_at": "2026-02-24T21:27:24.769787",
+    "engagement": {
+      "likes": 10,
+      "comments": 0,
+      "shares": 6
+    },
+    "location_mentioned": "Mission St"
+  },
+  {
+    "id": "post-20033",
+    "source": "reddit",
+    "author": "user958",
+    "content": "Major traffic jam on Mission St due to construction",
+    "sentiment": "neutral",
+    "topics": [
+      "traffic"
+    ],
+    "posted_at": "2026-02-26T01:27:24.769787",
+    "engagement": {
+      "likes": 57,
+      "comments": 31,
+      "shares": 3
+    },
+    "location_mentioned": "Haight St"
+  },
+  {
+    "id": "post-20034",
+    "source": "facebook",
+    "author": "user421",
+    "content": "Discussion about crime in the neighborhood",
+    "sentiment": "neutral",
+    "topics": [
+      "crime",
+      "restaurants"
+    ],
+    "posted_at": "2026-02-25T11:27:24.769787",
+    "engagement": {
+      "likes": 55,
+      "comments": 48,
+      "shares": 4
+    },
+    "location_mentioned": "Castro St"
+  },
+  {
+    "id": "post-20035",
+    "source": "nextdoor",
+    "author": "user373",
+    "content": "Discussion about schools in the neighborhood",
+    "sentiment": "negative",
+    "topics": [
+      "schools"
+    ],
+    "posted_at": "2026-02-26T11:27:24.769787",
+    "engagement": {
+      "likes": 47,
+      "comments": 22,
+      "shares": 18
+    },
+    "location_mentioned": null
+  },
+  {
+    "id": "post-20036",
+    "source": "nextdoor",
+    "author": "user450",
+    "content": "New restaurant opening on Castro St next week!",
+    "sentiment": "positive",
+    "topics": [
+      "restaurants"
+    ],
+    "posted_at": "2026-02-26T03:27:24.769787",
+    "engagement": {
+      "likes": 55,
+      "comments": 45,
+      "shares": 2
+    },
+    "location_mentioned": null
+  },
+  {
+    "id": "post-20037",
+    "source": "reddit",
+    "author": "user427",
+    "content": "Discussion about schools in the neighborhood",
+    "sentiment": "negative",
+    "topics": [
+      "schools"
+    ],
+    "posted_at": "2026-02-28T10:27:24.769787",
+    "engagement": {
+      "likes": 85,
+      "comments": 1,
+      "shares": 17
+    },
+    "location_mentioned": null
+  },
+  {
+    "id": "post-20038",
+    "source": "reddit",
+    "author": "user321",
+    "content": "Discussion about events in the neighborhood",
+    "sentiment": "positive",
+    "topics": [
+      "events",
+      "traffic"
+    ],
+    "posted_at": "2026-02-24T14:27:24.769787",
+    "engagement": {
+      "likes": 93,
+      "comments": 47,
+      "shares": 9
+    },
+    "location_mentioned": "Castro St"
+  },
+  {
+    "id": "post-20039",
+    "source": "nextdoor",
+    "author": "user151",
+    "content": "Discussion about crime in the neighborhood",
+    "sentiment": "negative",
+    "topics": [
+      "crime",
+      "traffic",
+      "parks"
+    ],
+    "posted_at": "2026-02-27T12:27:24.769787",
+    "engagement": {
+      "likes": 46,
+      "comments": 37,
+      "shares": 17
+    },
+    "location_mentioned": "Castro St"
+  },
+  {
+    "id": "post-20040",
+    "source": "twitter",
+    "author": "user990",
+    "content": "Discussion about parks in the neighborhood",
+    "sentiment": "positive",
+    "topics": [
+      "parks"
+    ],
+    "posted_at": "2026-02-25T04:27:24.769787",
+    "engagement": {
+      "likes": 97,
+      "comments": 5,
+      "shares": 16
+    },
+    "location_mentioned": "Castro St"
+  },
+  {
+    "id": "post-20041",
+    "source": "nextdoor",
+    "author": "user464",
+    "content": "Neighborhood watch meeting about Haight St safety",
+    "sentiment": "neutral",
+    "topics": [
+      "safety"
+    ],
+    "posted_at": "2026-02-25T07:27:24.769787",
+    "engagement": {
+      "likes": 19,
+      "comments": 5,
+      "shares": 12
+    },
+    "location_mentioned": null
+  },
+  {
+    "id": "post-20042",
+    "source": "facebook",
+    "author": "user831",
+    "content": "New restaurant opening on Mission St next week!",
+    "sentiment": "positive",
+    "topics": [
+      "restaurants",
+      "parks",
+      "schools"
+    ],
+    "posted_at": "2026-02-26T11:27:24.769787",
+    "engagement": {
+      "likes": 71,
+      "comments": 24,
+      "shares": 16
+    },
+    "location_mentioned": "Market St"
+  },
+  {
+    "id": "post-20043",
+    "source": "reddit",
+    "author": "user359",
+    "content": "New parking restrictions on Valencia St are ridiculous",
+    "sentiment": "negative",
+    "topics": [
+      "parking",
+      "parks"
+    ],
+    "posted_at": "2026-02-28T03:27:24.769787",
+    "engagement": {
+      "likes": 85,
+      "comments": 12,
+      "shares": 12
+    },
+    "location_mentioned": "Mission St"
+  },
+  {
+    "id": "post-20044",
+    "source": "reddit",
+    "author": "user521",
+    "content": "Discussion about schools in the neighborhood",
+    "sentiment": "neutral",
+    "topics": [
+      "schools",
+      "construction"
+    ],
+    "posted_at": "2026-02-25T20:27:24.769787",
+    "engagement": {
+      "likes": 24,
+      "comments": 13,
+      "shares": 4
+    },
+    "location_mentioned": "Castro St"
+  },
+  {
+    "id": "post-20045",
+    "source": "facebook",
+    "author": "user848",
+    "content": "Discussion about parks in the neighborhood",
+    "sentiment": "neutral",
+    "topics": [
+      "parks"
+    ],
+    "posted_at": "2026-02-26T07:27:24.769787",
+    "engagement": {
+      "likes": 20,
+      "comments": 32,
+      "shares": 13
+    },
+    "location_mentioned": "Market St"
+  },
+  {
+    "id": "post-20046",
+    "source": "reddit",
+    "author": "user629",
+    "content": "New parking restrictions on Castro St are ridiculous",
+    "sentiment": "negative",
+    "topics": [
+      "parking",
+      "events"
+    ],
+    "posted_at": "2026-02-28T00:27:24.769787",
+    "engagement": {
+      "likes": 62,
+      "comments": 40,
+      "shares": 10
+    },
+    "location_mentioned": "Market St"
+  },
+  {
+    "id": "post-20047",
+    "source": "facebook",
+    "author": "user587",
+    "content": "Discussion about crime in the neighborhood",
+    "sentiment": "negative",
+    "topics": [
+      "crime"
+    ],
+    "posted_at": "2026-02-25T17:27:24.769787",
+    "engagement": {
+      "likes": 26,
+      "comments": 10,
+      "shares": 10
+    },
+    "location_mentioned": "Mission St"
+  },
+  {
+    "id": "post-20048",
+    "source": "twitter",
+    "author": "user970",
+    "content": "Impossible to find parking near Market St anymore",
+    "sentiment": "neutral",
+    "topics": [
+      "parking",
+      "traffic",
+      "safety"
+    ],
+    "posted_at": "2026-02-26T12:27:24.769787",
+    "engagement": {
+      "likes": 34,
+      "comments": 3,
+      "shares": 20
+    },
+    "location_mentioned": "Market St"
+  },
+  {
+    "id": "post-20049",
+    "source": "facebook",
+    "author": "user531",
+    "content": "Discussion about parks in the neighborhood",
+    "sentiment": "positive",
+    "topics": [
+      "parks"
+    ],
+    "posted_at": "2026-02-28T16:27:24.769787",
+    "engagement": {
+      "likes": 100,
+      "comments": 15,
+      "shares": 19
+    },
+    "location_mentioned": "Castro St"
+  }
+]

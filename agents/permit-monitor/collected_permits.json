@@ -1,0 +1,317 @@
+[
+  {
+    "id": "permit-10000",
+    "type": "liquor",
+    "address": "258 Geary St, San Francisco, CA",
+    "description": "New bar liquor license",
+    "filed_date": "2026-02-10T23:26:12.637810",
+    "status": "approved",
+    "coordinates": {
+      "lat": 37.732476,
+      "lng": -122.391289
+    },
+    "distance_miles": 1.47,
+    "applicant": "Company A",
+    "estimated_cost": 369976
+  },
+  {
+    "id": "permit-10001",
+    "type": "zoning",
+    "address": "147 Polk St, San Francisco, CA",
+    "description": "Conditional use permit",
+    "filed_date": "2025-12-30T23:26:12.637810",
+    "status": "rejected",
+    "coordinates": {
+      "lat": 37.813138,
+      "lng": -122.414143
+    },
+    "distance_miles": 0.93,
+    "applicant": "Company B",
+    "estimated_cost": 151300
+  },
+  {
+    "id": "permit-10002",
+    "type": "zoning",
+    "address": "147 Polk St, San Francisco, CA",
+    "description": "Variance for building height",
+    "filed_date": "2025-12-20T23:26:12.637810",
+    "status": "approved",
+    "coordinates": {
+      "lat": 37.790985,
+      "lng": -122.414545
+    },
+    "distance_miles": 1.73,
+    "applicant": "Company C",
+    "estimated_cost": 256122
+  },
+  {
+    "id": "permit-10005",
+    "type": "building",
+    "address": "147 Polk St, San Francisco, CA",
+    "description": "New restaurant construction",
+    "filed_date": "2026-01-04T23:26:12.637810",
+    "status": "rejected",
+    "coordinates": {
+      "lat": 37.742423,
+      "lng": -122.423006
+    },
+    "distance_miles": 0.59,
+    "applicant": "Company F",
+    "estimated_cost": 358450
+  },
+  {
+    "id": "permit-10006",
+    "type": "zoning",
+    "address": "258 Geary St, San Francisco, CA",
+    "description": "Change of use from retail to restaurant",
+    "filed_date": "2026-02-09T23:26:12.637810",
+    "status": "completed",
+    "coordinates": {
+      "lat": 37.746082,
+      "lng": -122.444348
+    },
+    "distance_miles": 0.5,
+    "applicant": "Company G",
+    "estimated_cost": 139064
+  },
+  {
+    "id": "permit-10008",
+    "type": "zoning",
+    "address": "987 Divisadero St, San Francisco, CA",
+    "description": "Conditional use permit",
+    "filed_date": "2025-12-28T23:26:12.637810",
+    "status": "approved",
+    "coordinates": {
+      "lat": 37.758046,
+      "lng": -122.447351
+    },
+    "distance_miles": 0.6,
+    "applicant": "Company I",
+    "estimated_cost": null
+  },
+  {
+    "id": "permit-10009",
+    "type": "zoning",
+    "address": "258 Geary St, San Francisco, CA",
+    "description": "Change of use from retail to restaurant",
+    "filed_date": "2025-12-14T23:26:12.637810",
+    "status": "rejected",
+    "coordinates": {
+      "lat": 37.807285,
+      "lng": -122.425653
+    },
+    "distance_miles": 1.46,
+    "applicant": "Company J",
+    "estimated_cost": null
+  },
+  {
+    "id": "permit-10010",
+    "type": "zoning",
+    "address": "789 Valencia St, San Francisco, CA",
+    "description": "Change of use from retail to restaurant",
+    "filed_date": "2025-12-06T23:26:12.637810",
+    "status": "approved",
+    "coordinates": {
+      "lat": 37.772422,
+      "lng": -122.421054
+    },
+    "distance_miles": 1.55,
+    "applicant": "Company K",
+    "estimated_cost": null
+  },
+  {
+    "id": "permit-10011",
+    "type": "zoning",
+    "address": "321 Haight St, San Francisco, CA",
+    "description": "Change of use from retail to restaurant",
+    "filed_date": "2026-02-04T23:26:12.637810",
+    "status": "rejected",
+    "coordinates": {
+      "lat": 37.814976,
+      "lng": -122.402977
+    },
+    "distance_miles": 0.13,
+    "applicant": "Company L",
+    "estimated_cost": 257272
+  },
+  {
+    "id": "permit-10013",
+    "type": "demolition",
+    "address": "456 Mission St, San Francisco, CA",
+    "description": "Demolish existing structure",
+    "filed_date": "2026-01-18T23:26:12.637810",
+    "status": "completed",
+    "coordinates": {
+      "lat": 37.782583,
+      "lng": -122.372439
+    },
+    "distance_miles": 1.85,
+    "applicant": "Company N",
+    "estimated_cost": 97070
+  },
+  {
+    "id": "permit-10014",
+    "type": "building",
+    "address": "789 Valencia St, San Francisco, CA",
+    "description": "New restaurant construction",
+    "filed_date": "2026-02-22T23:26:12.637810",
+    "status": "pending",
+    "coordinates": {
+      "lat": 37.739161,
+      "lng": -122.392396
+    },
+    "distance_miles": 0.18,
+    "applicant": "Company O",
+    "estimated_cost": 162716
+  },
+  {
+    "id": "permit-10015",
+    "type": "building",
+    "address": "123 Market St, San Francisco, CA",
+    "description": "Commercial storefront remodel",
+    "filed_date": "2025-12-13T23:26:12.637810",
+    "status": "approved",
+    "coordinates": {
+      "lat": 37.733764,
+      "lng": -122.433202
+    },
+    "distance_miles": 1.26,
+    "applicant": "Company P",
+    "estimated_cost": 311527
+  },
+  {
+    "id": "permit-10018",
+    "type": "zoning",
+    "address": "654 Castro St, San Francisco, CA",
+    "description": "Change of use from retail to restaurant",
+    "filed_date": "2025-12-30T23:26:12.637810",
+    "status": "approved",
+    "coordinates": {
+      "lat": 37.784022,
+      "lng": -122.39234
+    },
+    "distance_miles": 0.49,
+    "applicant": "Company S",
+    "estimated_cost": null
+  },
+  {
+    "id": "permit-10019",
+    "type": "liquor",
+    "address": "147 Polk St, San Francisco, CA",
+    "description": "New bar liquor license",
+    "filed_date": "2026-01-10T23:26:12.637810",
+    "status": "pending",
+    "coordinates": {
+      "lat": 37.79182,
+      "lng": -122.384498
+    },
+    "distance_miles": 0.11,
+    "applicant": "Company T",
+    "estimated_cost": 211855
+  },
+  {
+    "id": "permit-10021",
+    "type": "zoning",
+    "address": "987 Divisadero St, San Francisco, CA",
+    "description": "Change of use from retail to restaurant",
+    "filed_date": "2026-02-08T23:26:12.637810",
+    "status": "pending",
+    "coordinates": {
+      "lat": 37.749338,
+      "lng": -122.459943
+    },
+    "distance_miles": 1.62,
+    "applicant": "Company V",
+    "estimated_cost": null
+  },
+  {
+    "id": "permit-10022",
+    "type": "building",
+    "address": "456 Mission St, San Francisco, CA",
+    "description": "New restaurant construction",
+    "filed_date": "2026-01-31T23:26:12.637810",
+    "status": "approved",
+    "coordinates": {
+      "lat": 37.784156,
+      "lng": -122.402027
+    },
+    "distance_miles": 1.6,
+    "applicant": "Company W",
+    "estimated_cost": 50577
+  },
+  {
+    "id": "permit-10025",
+    "type": "liquor",
+    "address": "987 Divisadero St, San Francisco, CA",
+    "description": "Restaurant beer and wine license",
+    "filed_date": "2025-12-19T23:26:12.637810",
+    "status": "pending",
+    "coordinates": {
+      "lat": 37.808655,
+      "lng": -122.453846
+    },
+    "distance_miles": 0.84,
+    "applicant": "Company Z",
+    "estimated_cost": null
+  },
+  {
+    "id": "permit-10026",
+    "type": "zoning",
+    "address": "654 Castro St, San Francisco, CA",
+    "description": "Conditional use permit",
+    "filed_date": "2026-02-25T23:26:12.637810",
+    "status": "rejected",
+    "coordinates": {
+      "lat": 37.792296,
+      "lng": -122.433753
+    },
+    "distance_miles": 1.76,
+    "applicant": "Company A",
+    "estimated_cost": null
+  },
+  {
+    "id": "permit-10027",
+    "type": "liquor",
+    "address": "654 Castro St, San Francisco, CA",
+    "description": "New bar liquor license",
+    "filed_date": "2026-01-02T23:26:12.637810",
+    "status": "pending",
+    "coordinates": {
+      "lat": 37.762391,
+      "lng": -122.37111
+    },
+    "distance_miles": 0.52,
+    "applicant": "Company B",
+    "estimated_cost": 196742
+  },
+  {
+    "id": "permit-10028",
+    "type": "zoning",
+    "address": "456 Mission St, San Francisco, CA",
+    "description": "Conditional use permit",
+    "filed_date": "2026-01-12T23:26:12.637810",
+    "status": "approved",
+    "coordinates": {
+      "lat": 37.809674,
+      "lng": -122.468883
+    },
+    "distance_miles": 0.35,
+    "applicant": "Company C",
+    "estimated_cost": 395418
+  },
+  {
+    "id": "permit-10029",
+    "type": "liquor",
+    "address": "456 Mission St, San Francisco, CA",
+    "description": "Liquor license transfer",
+    "filed_date": "2026-02-20T23:26:12.637810",
+    "status": "completed",
+    "coordinates": {
+      "lat": 37.763268,
+      "lng": -122.43588
+    },
+    "distance_miles": 0.58,
+    "applicant": "Company D",
+    "estimated_cost": 422507
+  }
+]
