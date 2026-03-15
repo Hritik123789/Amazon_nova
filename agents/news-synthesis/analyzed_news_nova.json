@@ -1,18 +1,5 @@
 [
   {
-    "article_number": 1,
-    "title": "Mumbai civic chief directs strict action against unauthorised hawkers",
-    "category": "Civic",
-    "mentions": [
-      "BMC"
-    ],
-    "permit_check_required": false,
-    "relevance_score": 8,
-    "url": "https://www.hindustantimes.com/cities/mumbai-news/mumbai-civic-chief-directs-strict-action-against-unauthorised-hawkers-101772990340031.html",
-    "summary": "Mumbai civic chief directs strict action against unauthorised hawkers",
-    "analyzed_by": "Amazon Nova 2 Lite"
-  },
-  {
     "article_number": 7,
     "title": "BMC issues e-auction notices to 34 defaulters to recover  ₹548.69 pending taxes",
     "category": "Civic",

@@ -8,11 +8,11 @@
     "project_type": "Residential",
     "project_name": "Residential Tower - Andheri West",
     "status": "Approved",
-    "date_detected": "2026-03-14",
+    "date_detected": "2026-03-15",
     "metadata": {
       "floors": 15,
       "units": 45,
-      "estimated_completion": "2027-03-14"
+      "estimated_completion": "2027-03-15"
     },
     "impact_summary": "New residential tower construction expected in the area",
     "neighborhood_impact": [
@@ -42,11 +42,11 @@
     "project_type": "Commercial",
     "project_name": "Commercial Complex - Andheri West",
     "status": "Filed",
-    "date_detected": "2026-03-14",
+    "date_detected": "2026-03-15",
     "metadata": {
       "floors": 8,
       "units": 20,
-      "estimated_completion": "2027-03-14"
+      "estimated_completion": "2027-03-15"
     },
     "impact_summary": "New commercial development planned",
     "neighborhood_impact": [
@@ -75,11 +75,11 @@
     "project_type": "Mixed Use",
     "project_name": "Mixed Use Development - Andheri West",
     "status": "Completed",
-    "date_detected": "2026-03-14",
+    "date_detected": "2026-03-15",
     "metadata": {
       "floors": 20,
       "units": 60,
-      "estimated_completion": "2027-03-14"
+      "estimated_completion": "2027-03-15"
     },
     "impact_summary": "Mixed-use building nearing completion",
     "neighborhood_impact": [

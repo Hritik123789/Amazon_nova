@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-14T00:36:45.194252",
+  "generated_at": "2026-03-15T19:54:35.623188",
   "user_location": {
     "latitude": 19.076,
     "longitude": 72.8777,
@@ -13,24 +13,44 @@
   },
   "alerts": [
     {
-      "id": "img-sample_images\\construction_site_1.jpg",
-      "alert_title": "Safety Alert",
-      "alert_message": "### Construction Site Analysis\n\n1. **Type of Construction**:\n   - The image depicts a construction site, but the specific type (building, road, infrastructure, etc.) is not clearly identifiable from t",
-      "priority": 8,
-      "action": "Stay informed and exercise caution",
+      "id": "img-sample_images\\safety_violation_1.jpg",
+      "alert_title": "Immediate Safety Violation at Construction Site",
+      "alert_message": "A serious safety violation has been detected at a nearby construction site. This poses an immediate danger to residents. Do not approach the site and inform the authorities immediately.",
+      "priority": 10,
+      "action": "Do not approach the site and inform the authorities immediately.",
       "location": "Mumbai",
       "source": "image_analysis",
-      "detected_at": "2026-03-11T22:15:43.904181"
+      "detected_at": "2026-03-11T22:15:50.015373",
+      "original_data": {
+        "violation_id": "img-sample_images\\safety_violation_1.jpg",
+        "source": "image_analysis",
+        "image_path": "sample_images\\safety_violation_1.jpg",
+        "description": "### Construction Site Analysis for Mumbai Civic Monitoring\n\n#### 1. Type of Construction\n- **Visible Construction**: The image shows a construction site with a large rectangular structure, likely a building foundation or a retaining wall. \n\n#### 2. Visible Signage\n- **Signage**: There is no visible ",
+        "location": "Mumbai",
+        "detected_at": "2026-03-11T22:15:50.015373",
+        "severity": "high",
+        "analyzed_by": "Amazon Nova 2 Omni"
+      }
     },
     {
-      "id": "img-sample_images\\safety_violation_1.jpg",
-      "alert_title": "Safety Alert",
-      "alert_message": "### Construction Site Analysis for Mumbai Civic Monitoring\n\n#### 1. Type of Construction\n- **Visible Construction**: The image shows a construction site with a large rectangular structure, likely a bu",
-      "priority": 8,
-      "action": "Stay informed and exercise caution",
+      "id": "img-sample_images\\construction_site_1.jpg",
+      "alert_title": "High-Risk Construction Site Near Your Area",
+      "alert_message": "A construction site has been identified near your area. Please avoid the area and use alternative routes if necessary. Report any unsafe conditions to local authorities.",
+      "priority": 7,
+      "action": "Avoid the area and report unsafe conditions to local authorities.",
       "location": "Mumbai",
       "source": "image_analysis",
-      "detected_at": "2026-03-11T22:15:50.015373"
+      "detected_at": "2026-03-11T22:15:43.904181",
+      "original_data": {
+        "violation_id": "img-sample_images\\construction_site_1.jpg",
+        "source": "image_analysis",
+        "image_path": "sample_images\\construction_site_1.jpg",
+        "description": "### Construction Site Analysis\n\n1. **Type of Construction**:\n   - The image depicts a construction site, but the specific type (building, road, infrastructure, etc.) is not clearly identifiable from the image alone. The site appears to be a general construction area with a focus on safety.\n\n2. **Vis",
+        "location": "Mumbai",
+        "detected_at": "2026-03-11T22:15:43.904181",
+        "severity": "high",
+        "analyzed_by": "Amazon Nova 2 Omni"
+      }
     }
   ],
   "raw_issues": {

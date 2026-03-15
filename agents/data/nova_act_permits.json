@@ -1,0 +1,72 @@
+{
+  "collected_at": "2026-03-15T20:47:37.054359",
+  "automation_engine": "Amazon Nova Act SDK",
+  "auth_method": "AWS IAM",
+  "sources_checked": [
+    "MahaRERA",
+    "BMC/MCGM"
+  ],
+  "event_count": 4,
+  "events": [
+    {
+      "event_type": "real_estate_project",
+      "source": "MahaRERA",
+      "location": "Andheri West, Mumbai",
+      "timestamp": "2026-03-15T20:47:37.048365",
+      "description": "Andheri Heights - Mumbai Developers Ltd - Andheri West",
+      "metadata": {
+        "project_name": "Andheri Heights",
+        "promoter": "Mumbai Developers Ltd",
+        "district": "Andheri West",
+        "registration_number": "P51800055123",
+        "extracted_by": "nova_act_ui_automation"
+      },
+      "automation_method": "Nova Act SDK"
+    },
+    {
+      "event_type": "real_estate_project",
+      "source": "MahaRERA",
+      "location": "Bandra East, Mumbai",
+      "timestamp": "2026-03-15T20:47:37.048365",
+      "description": "Bandra Business Park - Bandra Realty Pvt Ltd - Bandra East",
+      "metadata": {
+        "project_name": "Bandra Business Park",
+        "promoter": "Bandra Realty Pvt Ltd",
+        "district": "Bandra East",
+        "registration_number": "P51800055456",
+        "extracted_by": "nova_act_ui_automation"
+      },
+      "automation_method": "Nova Act SDK"
+    },
+    {
+      "event_type": "construction_approval",
+      "source": "BMC_NovaAct",
+      "location": "Goregaon-Mulund, Mumbai",
+      "timestamp": "2026-03-15T20:47:37.054359",
+      "description": "GMLR Phase IV construction approval - Goregaon-Mulund - 2026-03-01",
+      "metadata": {
+        "title": "GMLR Phase IV construction approval",
+        "location": "Goregaon-Mulund",
+        "date": "2026-03-01",
+        "status": "Approved",
+        "extracted_by": "nova_act_ui_automation"
+      },
+      "automation_method": "Nova Act SDK"
+    },
+    {
+      "event_type": "construction_approval",
+      "source": "BMC_NovaAct",
+      "location": "Sion, Mumbai",
+      "timestamp": "2026-03-15T20:47:37.054359",
+      "description": "Sion ROB modification - Sion - 2026-02-15",
+      "metadata": {
+        "title": "Sion ROB modification",
+        "location": "Sion",
+        "date": "2026-02-15",
+        "status": "In Progress",
+        "extracted_by": "nova_act_ui_automation"
+      },
+      "automation_method": "Nova Act SDK"
+    }
+  ]
+}

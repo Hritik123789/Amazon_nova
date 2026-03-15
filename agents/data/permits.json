@@ -1,117 +1,62 @@
-{
-  "collected_at": "2026-03-11T21:37:04.672215",
-  "source_count": 3,
-  "event_count": 7,
-  "sources": [
-    "MahaRERA",
-    "BMC",
-    "Maharashtra_Excise"
-  ],
-  "events": [
-    {
-      "event_type": "real_estate_project",
-      "source": "MahaRERA",
-      "location": "Nagpur, Mumbai",
-      "timestamp": "2026-03-11T21:36:54.121679",
-      "description": "A real estate project named GREEN CITY 3 by an unknown promoter has been registered in Nagpur, Mumbai.",
-      "metadata": {
-        "project_name": "GREEN CITY 3",
-        "promoter": "Unknown Promoter",
-        "district": "Nagpur",
-        "registration_number": "N/A",
-        "url": "https://maharera.maharashtra.gov.in/projects-search-result?page=1",
-        "data_source": "maharera_selenium"
-      },
-      "category": "real_estate"
+[
+  {
+    "event_type": "real_estate_project",
+    "source": "MahaRERA",
+    "location": "Andheri West, Mumbai",
+    "timestamp": "2026-03-15T20:47:37.048365",
+    "description": "Andheri Heights - Mumbai Developers Ltd - Andheri West",
+    "metadata": {
+      "project_name": "Andheri Heights",
+      "promoter": "Mumbai Developers Ltd",
+      "district": "Andheri West",
+      "registration_number": "P51800055123",
+      "extracted_by": "nova_act_ui_automation"
     },
-    {
-      "event_type": "real_estate_project",
-      "source": "MahaRERA",
-      "location": "Thane, Mumbai",
-      "timestamp": "2026-03-11T21:36:54.121679",
-      "description": "A new real estate project named 'UNNATHI WOODS PHASE VII A' by an unknown promoter has been registered in Thane, Mumbai.",
-      "metadata": {
-        "project_name": "UNNATHI WOODS PHASE VII A",
-        "promoter": "Unknown Promoter",
-        "district": "Thane",
-        "registration_number": "N/A",
-        "url": "https://maharera.maharashtra.gov.in/projects-search-result?page=1",
-        "data_source": "maharera_selenium"
-      },
-      "category": "real_estate"
+    "automation_method": "Nova Act SDK"
+  },
+  {
+    "event_type": "real_estate_project",
+    "source": "MahaRERA",
+    "location": "Bandra East, Mumbai",
+    "timestamp": "2026-03-15T20:47:37.048365",
+    "description": "Bandra Business Park - Bandra Realty Pvt Ltd - Bandra East",
+    "metadata": {
+      "project_name": "Bandra Business Park",
+      "promoter": "Bandra Realty Pvt Ltd",
+      "district": "Bandra East",
+      "registration_number": "P51800055456",
+      "extracted_by": "nova_act_ui_automation"
     },
-    {
-      "event_type": "real_estate_project",
-      "source": "MahaRERA",
-      "location": "Thane, Mumbai",
-      "timestamp": "2026-03-11T21:36:54.121679",
-      "description": "MAYFAIR VISHWARAJA is a new real estate project in Thane, Mumbai, promoted by an unknown entity.",
-      "metadata": {
-        "project_name": "MAYFAIR VISHWARAJA",
-        "promoter": "Unknown Promoter",
-        "district": "Thane",
-        "registration_number": "N/A",
-        "url": "https://maharera.maharashtra.gov.in/projects-search-result?page=1",
-        "data_source": "maharera_selenium"
-      },
-      "category": "real_estate"
+    "automation_method": "Nova Act SDK"
+  },
+  {
+    "event_type": "construction_approval",
+    "source": "BMC_NovaAct",
+    "location": "Goregaon-Mulund, Mumbai",
+    "timestamp": "2026-03-15T20:47:37.054359",
+    "description": "GMLR Phase IV construction approval - Goregaon-Mulund - 2026-03-01",
+    "metadata": {
+      "title": "GMLR Phase IV construction approval",
+      "location": "Goregaon-Mulund",
+      "date": "2026-03-01",
+      "status": "Approved",
+      "extracted_by": "nova_act_ui_automation"
     },
-    {
-      "event_type": "community_discussion",
-      "source": "Reddit_r/mumbai",
-      "location": "Mumbai",
-      "timestamp": "2026-03-11T21:36:57.905592",
-      "description": "A new YouTube vlog from a beginner showcases a quiet, relaxed atmosphere in Mumbai.",
-      "metadata": {
-        "url": "https://reddit.com/r/YoutubeChannelSharing/comments/1rqxjhc/no_talking_chill_vlog_from_a_complete_newbie_on/",
-        "platform": "reddit",
-        "topic": "construction_development",
-        "upvotes": 1
-      },
-      "category": "real_estate"
+    "automation_method": "Nova Act SDK"
+  },
+  {
+    "event_type": "construction_approval",
+    "source": "BMC_NovaAct",
+    "location": "Sion, Mumbai",
+    "timestamp": "2026-03-15T20:47:37.054359",
+    "description": "Sion ROB modification - Sion - 2026-02-15",
+    "metadata": {
+      "title": "Sion ROB modification",
+      "location": "Sion",
+      "date": "2026-02-15",
+      "status": "In Progress",
+      "extracted_by": "nova_act_ui_automation"
     },
-    {
-      "event_type": "community_discussion",
-      "source": "Reddit_r/mumbai",
-      "location": "Mumbai",
-      "timestamp": "2026-03-11T21:36:57.905592",
-      "description": "Join the community discussion on World Sleep Week at Silk & Snow in Mumbai.",
-      "metadata": {
-        "url": "https://reddit.com/r/silkandsnow/comments/1rqxjge/world_sleep_week_at_silk_snow/",
-        "platform": "reddit",
-        "topic": "construction_development",
-        "upvotes": 1
-      },
-      "category": "community_discussion"
-    },
-    {
-      "event_type": "community_discussion",
-      "source": "Reddit_r/mumbai",
-      "location": "Mumbai",
-      "timestamp": "2026-03-11T21:36:57.905592",
-      "description": "Taming the Witch (Billy Rizz Chronicles)",
-      "metadata": {
-        "url": "https://reddit.com/r/ZZZ_Romance/comments/1rqxjen/taming_the_witch_billy_rizz_chronicles/",
-        "platform": "reddit",
-        "topic": "construction_development",
-        "upvotes": 7
-      }
-    },
-    {
-      "event_type": "liquor_license",
-      "source": "Community_Reports",
-      "location": "Mumbai",
-      "timestamp": "2026-03-11T21:36:59.635169",
-      "description": "LAKEPLACE MAFIA AND THE OLD LADY GANG GANG TIP#19 TOPOLO RESTAURANT",
-      "metadata": {
-        "url": "https://reddit.com/r/u_Jessejames420-99/comments/1rqxwjh/lakeplace_mafia_and_the_old_lady_gang_gang_tip19/",
-        "platform": "reddit",
-        "topic": "commercial_license"
-      }
-    }
-  ],
-  "cost_tracking": {
-    "tokens_used": 1500,
-    "estimated_cost": 0.001
+    "automation_method": "Nova Act SDK"
   }
-}
+]

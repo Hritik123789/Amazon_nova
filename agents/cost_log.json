@@ -143,5 +143,209 @@
     "tokens_used": 1069,
     "estimated_cost": 0.017104,
     "audio_duration_seconds": 70.4
+  },
+  {
+    "agent": "community_pulse_enhanced",
+    "timestamp": "2026-03-15T19:46:10.576898",
+    "model": "Amazon Nova 2 Lite + Titan Embeddings",
+    "operation": "enhanced_topic_analysis",
+    "tokens_used": 0,
+    "estimated_cost": 0.0
+  },
+  {
+    "agent": "community_pulse_enhanced",
+    "timestamp": "2026-03-15T19:49:05.194511",
+    "model": "Amazon Nova 2 Lite + Titan Embeddings",
+    "operation": "enhanced_topic_analysis",
+    "tokens_used": 1626,
+    "estimated_cost": 0.00021394
+  },
+  {
+    "agent": "community_pulse_enhanced",
+    "timestamp": "2026-03-15T19:49:19.548790",
+    "model": "Amazon Nova 2 Lite + Titan Embeddings",
+    "operation": "enhanced_topic_analysis",
+    "tokens_used": 1722,
+    "estimated_cost": 0.0002314
+  },
+  {
+    "agent": "news_analysis",
+    "timestamp": "2026-03-15T19:50:15.499564",
+    "model": "Amazon Nova 2 Lite",
+    "operation": "news_analysis",
+    "tokens_used": 2876,
+    "estimated_cost": 0.0021652,
+    "total_articles": 10,
+    "relevant_articles": 2
+  },
+  {
+    "agent": "smart_alerts",
+    "timestamp": "2026-03-15T19:50:59.516275",
+    "model": "Amazon Nova 2 Lite",
+    "operation": "alert_prioritization",
+    "tokens_used": 735,
+    "estimated_cost": 8.208e-05
+  },
+  {
+    "agent": "safety_intelligence",
+    "timestamp": "2026-03-15T19:51:02.498860",
+    "model": "Amazon Nova 2 Lite",
+    "operation": "alert_generation",
+    "tokens_used": 562,
+    "estimated_cost": 7.224e-05
+  },
+  {
+    "agent": "investment_insights",
+    "timestamp": "2026-03-15T19:51:06.294891",
+    "model": "Amazon Nova 2 Lite",
+    "operation": "trend_analysis",
+    "tokens_used": 1013,
+    "estimated_cost": 0.00015024
+  },
+  {
+    "agent": "community_pulse_enhanced",
+    "timestamp": "2026-03-15T19:51:17.315886",
+    "model": "Amazon Nova 2 Lite + Titan Embeddings",
+    "operation": "enhanced_topic_analysis",
+    "tokens_used": 1652,
+    "estimated_cost": 0.0002182
+  },
+  {
+    "agent": "news_analysis",
+    "timestamp": "2026-03-15T19:54:26.610046",
+    "model": "Amazon Nova 2 Lite",
+    "operation": "news_analysis",
+    "tokens_used": 2803,
+    "estimated_cost": 0.0019827,
+    "total_articles": 10,
+    "relevant_articles": 1
+  },
+  {
+    "agent": "smart_alerts",
+    "timestamp": "2026-03-15T19:54:35.443255",
+    "model": "Amazon Nova 2 Lite",
+    "operation": "alert_prioritization",
+    "tokens_used": 735,
+    "estimated_cost": 8.208e-05
+  },
+  {
+    "agent": "safety_intelligence",
+    "timestamp": "2026-03-15T19:54:35.624263",
+    "model": "Amazon Nova 2 Lite",
+    "operation": "alert_generation",
+    "tokens_used": 555,
+    "estimated_cost": 7.056e-05
+  },
+  {
+    "agent": "investment_insights",
+    "timestamp": "2026-03-15T19:54:36.786982",
+    "model": "Amazon Nova 2 Lite",
+    "operation": "trend_analysis",
+    "tokens_used": 1065,
+    "estimated_cost": 0.00016272000000000004
+  },
+  {
+    "agent": "community_pulse_enhanced",
+    "timestamp": "2026-03-15T19:54:42.428084",
+    "model": "Amazon Nova 2 Lite + Titan Embeddings",
+    "operation": "enhanced_topic_analysis",
+    "tokens_used": 1660,
+    "estimated_cost": 0.00021994
+  },
+  {
+    "agent": "voice_qa_realtime",
+    "timestamp": "2026-03-15T19:58:11.102975",
+    "model": "Amazon Nova 2 Lite + Nova 2 Sonic",
+    "operation": "voice_qa",
+    "tokens_used": 142,
+    "estimated_cost": 1.374e-05
+  },
+  {
+    "agent": "voice_qa_realtime",
+    "timestamp": "2026-03-15T20:11:26.045420",
+    "model": "Amazon Nova 2 Lite + Nova Sonic",
+    "operation": "voice_qa",
+    "tokens_used": 148,
+    "estimated_cost": 1.518e-05
+  },
+  {
+    "agent": "voice_qa_realtime",
+    "timestamp": "2026-03-15T20:17:34.151531",
+    "model": "Amazon Nova 2 Lite + Nova Sonic",
+    "operation": "voice_qa",
+    "tokens_used": 147,
+    "estimated_cost": 1.4940000000000003e-05
+  },
+  {
+    "agent": "voice_qa_realtime",
+    "timestamp": "2026-03-15T20:19:49.899351",
+    "model": "Amazon Nova 2 Lite + Nova Sonic",
+    "operation": "voice_qa",
+    "tokens_used": 170,
+    "estimated_cost": 2.046e-05
+  },
+  {
+    "agent": "voice_qa_realtime",
+    "timestamp": "2026-03-15T20:28:01.666758",
+    "model": "Nova 2 Lite + Amazon Polly Neural",
+    "operation": "voice_qa",
+    "tokens_used": 118,
+    "estimated_cost": 1.284e-05
+  },
+  {
+    "agent": "voice_qa_realtime",
+    "timestamp": "2026-03-15T20:28:02.842050",
+    "model": "Nova 2 Lite + Amazon Polly Neural",
+    "operation": "voice_qa",
+    "tokens_used": 231,
+    "estimated_cost": 2.4480000000000003e-05
+  },
+  {
+    "agent": "voice_qa_realtime",
+    "timestamp": "2026-03-15T20:28:04.393149",
+    "model": "Nova 2 Lite + Amazon Polly Neural",
+    "operation": "voice_qa",
+    "tokens_used": 369,
+    "estimated_cost": 4.266e-05
+  },
+  {
+    "agent": "voice_qa_realtime",
+    "timestamp": "2026-03-15T20:35:27.263098",
+    "model": "Nova 2 Lite + pyttsx3 (offline)",
+    "operation": "voice_qa",
+    "tokens_used": 120,
+    "estimated_cost": 1.3320000000000001e-05
+  },
+  {
+    "agent": "voice_qa_realtime",
+    "timestamp": "2026-03-15T20:37:27.087629",
+    "model": "Nova 2 Lite + Amazon Polly Neural",
+    "operation": "voice_qa",
+    "tokens_used": 120,
+    "estimated_cost": 0.00308532
+  },
+  {
+    "agent": "voice_qa_realtime",
+    "timestamp": "2026-03-15T20:37:30.060683",
+    "model": "Nova 2 Lite + Amazon Polly Neural",
+    "operation": "voice_qa",
+    "tokens_used": 254,
+    "estimated_cost": 0.007454
+  },
+  {
+    "agent": "voice_qa_realtime",
+    "timestamp": "2026-03-15T20:37:32.639457",
+    "model": "Nova 2 Lite + Amazon Polly Neural",
+    "operation": "voice_qa",
+    "tokens_used": 400,
+    "estimated_cost": 0.013106099999999999
+  },
+  {
+    "agent": "nova_act_permit_checker",
+    "timestamp": "2026-03-15T20:47:37.056359",
+    "model": "Nova Act SDK (AWS IAM)",
+    "operation": "ui_automation",
+    "tokens_used": 0,
+    "estimated_cost": 0.0
   }
 ]

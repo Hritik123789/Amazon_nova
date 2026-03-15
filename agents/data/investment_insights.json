@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-14T00:36:45.199008",
+  "generated_at": "2026-03-15T19:54:36.785984",
   "target_area": "Mumbai",
   "trends": {
     "hotspots": [
@@ -37,49 +37,83 @@
     "hotspot_analysis": [
       {
         "location": "Mumbai",
-        "investment_potential": "medium",
-        "reasoning": "Active development with 4 permits",
-        "recommendation": "Monitor for further development activity"
+        "investment_potential": "high",
+        "reasoning": "Mumbai has the highest activity count and growth score, indicating concentrated development activity and potential for significant returns.",
+        "recommendation": "Invest in residential and commercial properties as these sectors are well-represented.",
+        "suggested_neighborhoods": [
+          "Bandra West",
+          "Andheri East",
+          "Powai",
+          "Lower Parel",
+          "Worli"
+        ]
       },
       {
         "location": "Thane",
         "investment_potential": "medium",
-        "reasoning": "Active development with 2 permits",
-        "recommendation": "Monitor for further development activity"
+        "reasoning": "Thane has a moderate activity count and growth score, suggesting steady but less concentrated development activity.",
+        "recommendation": "Consider investing in residential properties in Thane West and Ghodbunder Road for potential growth.",
+        "suggested_neighborhoods": [
+          "Thane West",
+          "Ghodbunder Road",
+          "Majiwada"
+        ]
       },
       {
         "location": "Nagpur",
-        "investment_potential": "medium",
-        "reasoning": "Active development with 1 permits",
-        "recommendation": "Monitor for further development activity"
+        "investment_potential": "low",
+        "reasoning": "Nagpur has the lowest activity count and growth score, indicating less concentrated development activity and lower potential returns.",
+        "recommendation": "Invest with caution and focus on long-term prospects.",
+        "suggested_neighborhoods": []
       }
     ],
     "market_trends": {
-      "dominant_sector": "other",
+      "dominant_sector": "mixed",
       "growth_indicators": [
-        "Active permit activity",
-        "Multiple projects"
+        "High activity count in Mumbai",
+        "Moderate activity count in Thane",
+        "Low activity count in Nagpur"
       ],
       "risk_factors": [
-        "Market volatility",
-        "Regulatory changes"
+        "Potential oversupply in Mumbai",
+        "Limited data for Thane and Nagpur"
       ]
     },
     "investment_recommendations": [
       {
-        "strategy": "Diversified portfolio approach",
+        "strategy": "Focus on residential and commercial properties in high-activity neighborhoods",
         "target_areas": [
-          "Mumbai",
-          "Thane",
-          "Nagpur"
+          "Bandra West",
+          "Andheri East",
+          "Powai",
+          "Lower Parel",
+          "Worli",
+          "Thane West",
+          "Ghodbunder Road"
+        ],
+        "timeframe": "medium-term",
+        "confidence": "high"
+      },
+      {
+        "strategy": "Diversify investment across different property types in Thane",
+        "target_areas": [
+          "Thane West",
+          "Ghodbunder Road",
+          "Majiwada"
         ],
         "timeframe": "medium-term",
         "confidence": "medium"
+      },
+      {
+        "strategy": "Invest cautiously in Nagpur with a long-term perspective",
+        "target_areas": [],
+        "timeframe": "long-term",
+        "confidence": "low"
       }
     ]
   },
   "metadata": {
-    "tokens_used": 0,
-    "estimated_cost": 0.0
+    "tokens_used": 1065,
+    "estimated_cost": 0.00016272000000000004
   }
 }

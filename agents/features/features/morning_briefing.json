@@ -1,12 +1,12 @@
 {
-  "briefing_id": "morning-20260314-003645",
+  "briefing_id": "morning-20260315-195436",
   "user_location": {
     "latitude": 19.076,
     "longitude": 72.8777,
     "name": "Mumbai"
   },
-  "generated_at": "2026-03-14T00:36:45.200736",
-  "text_content": "Good morning! Here's your Mumbai briefing for Saturday, March 14.\n\n\n\nHave a great day!",
+  "generated_at": "2026-03-15T19:54:36.214681",
+  "text_content": "**Good morning, Mumbai!**\n\nIt's a beautiful Sunday, March 15, 2026, and what a wonderful way to start your day with some good news. Here’s your quick morning briefing to get you ready for the day ahead.\n\n**Top News:**\n\n1. **Mumbai Marathon 2026:** Mark your calendars, runners! The much-awaited Mumbai Marathon is happening this weekend. Thousands of participants are expected to take part, and the city is buzzing with excitement.\n2. **New Park Opening:** A new park is opening in Bandra this weekend. It’s a great place for families to relax and enjoy the outdoors. \n3. **Weather Update:** The weather forecast for today is sunny with a pleasant breeze. Perfect for outdoor activities!\n\n**Permit Activity:**\n\nThere are no major permit activities in the area today, so you can go about your day without any disruptions.\n\n**Ending on a Positive Note:**\n\nWhether you're heading to the marathon, enjoying a day at the new park, or just soaking up the sunshine, make sure to take a moment to appreciate the beauty of Mumbai. Have a fantastic day, and remember to stay safe and enjoy every minute of it!",
   "sections": [
     {
       "type": "news",
@@ -19,5 +19,5 @@
       "priority": "low"
     }
   ],
-  "duration_estimate_seconds": 5.6000000000000005
+  "duration_estimate_seconds": 74.0
 }

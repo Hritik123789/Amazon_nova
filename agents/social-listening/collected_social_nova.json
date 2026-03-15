@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-03-14T00:36:37.995009",
+  "collected_at": "2026-03-15T19:54:29.822510",
   "source_count": 2,
   "post_count": 20,
   "sources": [
@@ -8,84 +8,237 @@
   ],
   "sentiment_summary": {
     "positive": 0.0,
-    "neutral": 100.0,
-    "negative": 0.0,
+    "neutral": 95.0,
+    "negative": 5.0,
     "total_posts": 20
   },
-  "trending_topics": [],
+  "trending_topics": [
+    {
+      "topic": "Mumbai",
+      "count": 2
+    },
+    {
+      "topic": "salary",
+      "count": 2
+    },
+    {
+      "topic": "food",
+      "count": 2
+    },
+    {
+      "topic": "delivery apps",
+      "count": 1
+    },
+    {
+      "topic": "basic items",
+      "count": 1
+    },
+    {
+      "topic": "customer service",
+      "count": 1
+    },
+    {
+      "topic": "product quality",
+      "count": 1
+    },
+    {
+      "topic": "pricing",
+      "count": 1
+    },
+    {
+      "topic": "BMS",
+      "count": 1
+    },
+    {
+      "topic": "placement",
+      "count": 1
+    }
+  ],
   "posts": [
     {
-      "id": "1rsrvod",
+      "id": "1ruegyx",
       "source": "reddit_r/mumbai",
-      "author": "eater12334",
-      "title": "South Indian food in mumbai",
-      "content": "Ignore benne rameshwaram cafe like joints \nLet's talk OG spots like Madras cafe , poornima cafe, dakshinayan and others \nWhat is would you order at these joints like where is the best podi idli served \nWho serves the best dosa and rava dosa",
-      "url": "https://reddit.com/r/mumbai/comments/1rsrvod/south_indian_food_in_mumbai/",
-      "created_utc": 1773418913.0,
-      "timestamp": "2026-03-13T21:51:53",
+      "author": "Inside_Orchid2242",
+      "title": "Does anyone here know where can i get these",
+      "content": "Already have the few basic ones available on online delivery apps looking for the rest",
+      "url": "https://reddit.com/r/mumbai/comments/1ruegyx/does_anyone_here_know_where_can_i_get_these/",
+      "created_utc": 1773582439.0,
+      "timestamp": "2026-03-15T19:17:19",
+      "engagement": {
+        "upvotes": 15,
+        "downvotes": 0,
+        "comments": 7,
+        "score": 15
+      },
+      "subreddit": "mumbai",
+      "flair": "General",
+      "sentiment": "neutral",
+      "topics": [
+        "Mumbai",
+        "delivery apps",
+        "basic items"
+      ],
+      "summary": "The user is seeking information on where to find specific items, having already obtained some through online delivery apps."
+    },
+    {
+      "id": "1ruefyl",
+      "source": "reddit_r/mumbai",
+      "author": "micro_organism",
+      "title": "Are these conditions valid?",
+      "content": "We placed an order for lens replacement for an old ted baker pair. They charged us 2000 (only for lenses) and according to the shopkeeper this charge applies to lenses only and not to frames or fitting. \n\nOnce home, the frame broke immediately near the nosebridge. He claims we broke the frame whereas in reality the lens popped out and then we noticed the broken frame. \n\nMind you, he gave us no psa that the frame might break because according to him (now) it's too old.\n\nThere was a bit of struggle getting him to fix it but this is what he showed to us on the delivery note (underlining job done by him) \n\nI am livid right now but how on earth is this even fair for a customer \n\nShop is in mira road - visit at your own risk\n",
+      "url": "https://reddit.com/r/mumbai/comments/1ruefyl/are_these_conditions_valid/",
+      "created_utc": 1773582364.0,
+      "timestamp": "2026-03-15T19:16:04",
+      "engagement": {
+        "upvotes": 2,
+        "downvotes": 0,
+        "comments": 1,
+        "score": 2
+      },
+      "subreddit": "mumbai",
+      "flair": "General",
+      "sentiment": "negative",
+      "topics": [
+        "customer service",
+        "product quality",
+        "pricing"
+      ],
+      "summary": "A customer expresses dissatisfaction with the high cost of lens replacement and the subsequent frame damage, blaming poor communication and service from the shopkeeper."
+    },
+    {
+      "id": "1ruef5w",
+      "source": "reddit_r/mumbai",
+      "author": "Ambitious-Conflict31",
+      "title": "Placement reality of bms",
+      "content": "Can someone tell me reality of avg starting salary of people doing bms from top mumbai colleges like Xavier's,jai hind and nm..i don't want exaggerated ones",
+      "url": "https://reddit.com/r/mumbai/comments/1ruef5w/placement_reality_of_bms/",
+      "created_utc": 1773582309.0,
+      "timestamp": "2026-03-15T19:15:09",
       "engagement": {
         "upvotes": 1,
         "downvotes": 0,
-        "comments": 3,
+        "comments": 5,
+        "score": 1
+      },
+      "subreddit": "mumbai",
+      "flair": "Careers",
+      "sentiment": "neutral",
+      "topics": [
+        "BMS",
+        "placement",
+        "salary"
+      ],
+      "summary": "The post inquires about the average starting salary for BMS graduates from top Mumbai colleges."
+    },
+    {
+      "id": "1ruebpp",
+      "source": "reddit_r/mumbai",
+      "author": "NormalAttitude8101",
+      "title": "BKC Office - 70k enough? Is traffic that bad?",
+      "content": "70k in hand salary per month. Office in BKC. Can travel 30-40 mins. Have to live on rent, max 2 people sharing - PG. How much will I save? Is it Survivable? I have heard, it's really difficult and exhausting to reach BKC because of traffic and all. Pls guide",
+      "url": "https://reddit.com/r/mumbai/comments/1ruebpp/bkc_office_70k_enough_is_traffic_that_bad/",
+      "created_utc": 1773582044.0,
+      "timestamp": "2026-03-15T19:10:44",
+      "engagement": {
+        "upvotes": 1,
+        "downvotes": 0,
+        "comments": 5,
         "score": 1
       },
       "subreddit": "mumbai",
       "flair": "Discussion",
       "sentiment": "neutral",
-      "topics": [],
-      "summary": "South Indian food in mumbai"
+      "topics": [
+        "salary",
+        "traffic",
+        "living expenses"
+      ],
+      "summary": "A person is seeking advice on whether a 70k salary is sufficient for living in Mumbai, considering the traffic and living costs in BKC."
     },
     {
-      "id": "1rsqzmu",
+      "id": "1rue4in",
       "source": "reddit_r/mumbai",
-      "author": "Zee1908",
-      "title": "New to Mumbai — can I rely on local trains for Kanjur Marg to Parel commute?",
-      "content": "Hi everyone,\n\nI’m shifting to Mumbai soon and wanted some advice from locals. My office is in Parel, and I’m considering renting a place around Kanjur Marg because the rents seem relatively more reasonable compared to areas closer to South Mumbai.\n\nMy main concern is the daily commute.\n\n- How practical is it to travel between Kanjur Marg and Parel for office every day?\n- What’s the usual travel time during peak hours in the local train?\n- Is it manageable long term or does it get too exhausting?\n\nI’m also a bit worried about the monsoon season since I’ve heard local trains sometimes get disrupted during heavy rains.\n\n- Does this route usually get badly affected during monsoon?\n- Would commuting still be reliable?\n\nFor context:\n\n- I’m new to Mumbai and coming from Delhi.\n- Office would likely require reaching around 9–9:30 AM and leaving around 6–6:30 PM.\n\nWould really appreciate honest advice — whether this commute is reasonable or if I should look for places closer to Parel instead.\n\nThanks in advance!",
-      "url": "https://reddit.com/r/mumbai/comments/1rsqzmu/new_to_mumbai_can_i_rely_on_local_trains_for/",
-      "created_utc": 1773416963.0,
-      "timestamp": "2026-03-13T21:19:23",
+      "author": "thegrader",
+      "title": "Looking for production house projects in Bombay",
+      "content": "Hey all  i wanted to know if there is any people here  working in film production house ,  i am looking to work on few projects or interning in summer for colorist position  . Please lemme know.  If anyone is here please dm me with little details.\n\nNewbee here, pls don't mind me asking that :)",
+      "url": "https://reddit.com/r/mumbai/comments/1rue4in/looking_for_production_house_projects_in_bombay/",
+      "created_utc": 1773581501.0,
+      "timestamp": "2026-03-15T19:01:41",
       "engagement": {
         "upvotes": 1,
         "downvotes": 0,
-        "comments": 11,
+        "comments": 0,
         "score": 1
       },
       "subreddit": "mumbai",
-      "flair": "AskMumbai",
+      "flair": "Careers",
       "sentiment": "neutral",
-      "topics": [],
-      "summary": "New to Mumbai — can I rely on local trains for Kanjur Marg to Parel commute?"
+      "topics": [
+        "production house",
+        "film",
+        "internship"
+      ],
+      "summary": "A newbee in Mumbai is seeking information about production house projects or internship opportunities for a colorist position."
     },
     {
-      "id": "1rsqw3x",
+      "id": "1rudukq",
       "source": "reddit_r/mumbai",
-      "author": "NeedleworkerSad4262",
-      "title": "Mens too are not safe nowadays",
-      "content": "I’m a 21M and had a really uncomfortable experience with an auto driver.\n\nWhen I got in, he started with random compliments like, “Hello handsome, you’re looking good brother,” etc. I didn’t think much of it at first. Midway he asked if I could buy him a vada pav. It felt odd but I just agreed.\n\nAfter that he tried taking a wrong route, probably assuming I was new to the area. I had 2–3 bags with me, so at first I thought maybe he was trying to steal something or take advantage of the situation.\n\nWhen we finally reached, I paid the fare but he demanded extra money. I didn’t want to argue and just wanted to leave, so I gave him another note.\n\nBut when I handed it to him, he suddenly grabbed my hand like a handshake and held it while giving this weird look and gesture, like signaling me to come inside the auto. I honestly can’t properly describe it, but it felt extremely creepy.\n\nHe was a big, heavy guy and I’m pretty skinny. For a moment I kept thinking what if he tried this somewhere quiet. Luckily the area was crowded. I immediately shouted at him and stepped away.\n\nWhat scared me more was that he waited on the other side of the road for a while. I didn’t move much because I was worried he might notice where my PG is.\n\nHonestly the whole situation left me pretty disturbed.",
-      "url": "https://reddit.com/r/mumbai/comments/1rsqw3x/mens_too_are_not_safe_nowadays/",
-      "created_utc": 1773416748.0,
-      "timestamp": "2026-03-13T21:15:48",
+      "author": "holycrape69",
+      "title": "Retirement Party near andheri",
+      "content": "So my father will be retiring in April and i want to throw a retirement party for him, since we live near andheri i am looking for a place near me around 25 people will be there only family. Need a suggestion for places where we could have decent food and a good place. ",
+      "url": "https://reddit.com/r/mumbai/comments/1rudukq/retirement_party_near_andheri/",
+      "created_utc": 1773580758.0,
+      "timestamp": "2026-03-15T18:49:18",
       "engagement": {
-        "upvotes": 12,
+        "upvotes": 1,
         "downvotes": 0,
-        "comments": 14,
-        "score": 12
+        "comments": 0,
+        "score": 1
       },
       "subreddit": "mumbai",
-      "flair": "Discussion",
+      "flair": "General",
       "sentiment": "neutral",
-      "topics": [],
-      "summary": "Mens too are not safe nowadays"
+      "topics": [
+        "retirement party",
+        "venue",
+        "food"
+      ],
+      "summary": "Looking for a venue near Andheri for a family retirement party for around 25 people."
     },
     {
-      "id": "1rsqw1o",
+      "id": "1rudpce",
       "source": "reddit_r/mumbai",
-      "author": "Cursed_Czar",
-      "title": "Any good food suggestions in goregaon (W)",
-      "content": "Hi All, \n\nAny good food suggestions in goregaon? \n\nBudget friendly of course. \n\nBut most of the places seems not to maintain much of hygeine. Considering that, kindly suggest. ",
-      "url": "https://reddit.com/r/mumbai/comments/1rsqw1o/any_good_food_suggestions_in_goregaon_w/",
-      "created_utc": 1773416742.0,
-      "timestamp": "2026-03-13T21:15:42",
+      "author": "Prestigious_Society2",
+      "title": "Glass bottle Diet Coke for anniversary present",
+      "content": "title is pretty self explanatory but me and my girls 4th anniversary is coming up, she loves diet coke and she would love to see Diet Coke in those little glass bottles. it’s available in some imported goods shops, can someone please help. Its next month so there’s time but would love help!",
+      "url": "https://reddit.com/r/mumbai/comments/1rudpce/glass_bottle_diet_coke_for_anniversary_present/",
+      "created_utc": 1773580354.0,
+      "timestamp": "2026-03-15T18:42:34",
+      "engagement": {
+        "upvotes": 1,
+        "downvotes": 0,
+        "comments": 0,
+        "score": 1
+      },
+      "subreddit": "mumbai",
+      "flair": "General",
+      "sentiment": "neutral",
+      "topics": [
+        "anniversary",
+        "Diet Coke",
+        "gift"
+      ],
+      "summary": "The poster is seeking help to find a glass bottle of Diet Coke as a gift for their 4th anniversary."
+    },
+    {
+      "id": "1rud6wo",
+      "source": "reddit_r/mumbai",
+      "author": "Mean-Ideal-5951",
+      "title": "Does anyone know when does the last 492 bus leave from Majas depot at night?",
+      "content": "",
+      "url": "https://reddit.com/r/mumbai/comments/1rud6wo/does_anyone_know_when_does_the_last_492_bus_leave/",
+      "created_utc": 1773578910.0,
+      "timestamp": "2026-03-15T18:18:30",
       "engagement": {
         "upvotes": 1,
         "downvotes": 0,
@@ -95,134 +248,125 @@
       "subreddit": "mumbai",
       "flair": "AskMumbai",
       "sentiment": "neutral",
-      "topics": [],
-      "summary": "Any good food suggestions in goregaon (W)"
+      "topics": [
+        "public transport",
+        "bus schedule",
+        "Majas depot"
+      ],
+      "summary": "A user is asking about the departure time of the last 492 bus from Majas depot at night."
     },
     {
-      "id": "1rsqr4n",
+      "id": "1rucvsv",
       "source": "reddit_r/mumbai",
-      "author": "Nightmare_nymph",
-      "title": "Looking for a female replacement in Vile Parle",
-      "content": "🌿 | For females | Move-in May 🌿\n\nGot a cozy spot opening up in a fully furnished 3BHK in Vile Parle starting May. Perfect if you want a comfortable place that feels more like a chill home than a strict hostel.\n\n🛏 Rent: ₹17,325 per person (double occupancy)\n📍 Location: Walking distance from the station – super convenient for daily travel\n🎓 Ideal for students from NM, Mithibai, NMIMS (literally a quick commute)\n\n✨ The vibe:\n• Fully furnished flat\n• Very relaxed environment\n• No unnecessary restrictions – everyone minds their business and keeps things easygoing\n• Comfortable space for studying, hanging out, and just existing peacefully\n\nIf you’re looking for a well-located, student-friendly place with good vibes, this might be your spot.\n\nDM if interested or if you want more details / pictures\n\n",
-      "url": "https://reddit.com/r/mumbai/comments/1rsqr4n/looking_for_a_female_replacement_in_vile_parle/",
-      "created_utc": 1773416437.0,
-      "timestamp": "2026-03-13T21:10:37",
+      "author": "Little_Beginning8239",
+      "title": "Law colleges in Maharashtra with flexible attendance for working professionals?",
+      "content": "I’m a Class 1 officer in the Central Government, currently posted in Mumbai. I’m fairly confident that I’ll get admission to GLC Mumbai this year, but the issue is that I won’t be able to attend lectures regularly because of my job.\n\nMy transfers are due this month, and I will most likely be posted to a Tier-2 or Tier-3 city. However, I’m planning to continue staying in Pune, since my office requires physical attendance for only about 10 days a month.\n\nBecause of this situation, I’m looking for law colleges where attendance is not required at all, or where it’s possible to appear directly for exams without attending classes. If possible, I can attend classes only 3-4 days a month.\n\nIf anyone has experience with such colleges (especially in Pune or Mumbai) I’d really appreciate your suggestions.",
+      "url": "https://reddit.com/r/mumbai/comments/1rucvsv/law_colleges_in_maharashtra_with_flexible/",
+      "created_utc": 1773577987.0,
+      "timestamp": "2026-03-15T18:03:07",
       "engagement": {
         "upvotes": 4,
         "downvotes": 0,
-        "comments": 2,
+        "comments": 10,
         "score": 4
       },
       "subreddit": "mumbai",
-      "flair": "General",
+      "flair": "Careers",
       "sentiment": "neutral",
-      "topics": [],
-      "summary": "Looking for a female replacement in Vile Parle"
+      "topics": [
+        "law colleges",
+        "flexible attendance",
+        "job transfers"
+      ],
+      "summary": "A Class 1 officer in the Central Government, currently posted in Mumbai, is seeking information on law colleges in Maharashtra with flexible attendance for working professionals."
     },
     {
-      "id": "1rspp63",
+      "id": "1rucjvg",
       "source": "reddit_r/mumbai",
-      "author": "Leading_Canary_7134",
-      "title": "Pickleball/ tennis monthly",
-      "content": "Hey I’m 25 M \n\nCan anyone suggest good pickle ball / tennis coaching on monthly basis \n\nArea would be - Andheri and vile Parle \n\nMy budget is - 4-6k monthly ",
-      "url": "https://reddit.com/r/mumbai/comments/1rspp63/pickleball_tennis_monthly/",
-      "created_utc": 1773414057.0,
-      "timestamp": "2026-03-13T20:30:57",
+      "author": "blueberry_kaee_",
+      "title": "Where can one get viral buzz balls in mumbai???",
+      "content": "You read it . \nWhere can we get it in mumbai ",
+      "url": "https://reddit.com/r/mumbai/comments/1rucjvg/where_can_one_get_viral_buzz_balls_in_mumbai/",
+      "created_utc": 1773576958.0,
+      "timestamp": "2026-03-15T17:45:58",
       "engagement": {
-        "upvotes": 1,
+        "upvotes": 5,
         "downvotes": 0,
         "comments": 2,
-        "score": 1
+        "score": 5
       },
       "subreddit": "mumbai",
       "flair": "General",
       "sentiment": "neutral",
-      "topics": [],
-      "summary": "Pickleball/ tennis monthly"
+      "topics": [
+        "viral buzz balls",
+        "Mumbai",
+        "food"
+      ],
+      "summary": "The post asks where to find viral buzz balls in Mumbai."
     },
     {
-      "id": "1rspnvr",
-      "source": "reddit_r/mumbai",
-      "author": "Daarukadevta",
-      "title": "Noticed more sharing taxis than buses from Churchgate to Gateway of India",
-      "content": "Travelled from Churchgate to Gateway of India recently and noticed something interesting.\n\nThere seem to be a lot more sharing taxis operating on that route now, while buses didn’t seem as frequent as before. Quite a few people were choosing the shared taxis instead of waiting for a bus.\n\nMaybe it’s just my observation from that day, but it felt like this option has become more common lately.\n\nCurious if others in Mumbai have noticed the same — has there actually been an increase in these sharing taxis, or has the bus frequency changed on that route? 🚕",
-      "url": "https://reddit.com/r/mumbai/comments/1rspnvr/noticed_more_sharing_taxis_than_buses_from/",
-      "created_utc": 1773413988.0,
-      "timestamp": "2026-03-13T20:29:48",
+      "id": "1rtx0yq",
+      "source": "reddit_r/india",
+      "author": "minibeastwork",
+      "title": "Mumbai: Uber Auto Driver Misbehaved With My Female Friend, Demanded Extra Money and Tried Diverting Route at Night",
+      "content": "Last night around 10 PM, a female friend of mine booked an auto through Uber from Dombivli to Powai.\n\nAt the start of the ride, the driver asked how much the app was charging and demanded extra cash. When she refused and said she would only pay the fare shown in the app, he started verbally abusing her.\n\nThe more concerning part was that during the ride he intentionally diverted from the normal GPS route and tried taking the auto through isolated roads late at night. She repeatedly asked him to follow the route but he kept arguing and behaving aggressively.\n\nThankfully she reached safely, but the whole situation was very uncomfortable and unsafe, especially for someone traveling alone at night.\n\nDriver details:\n\nName: Mitendra\n\nAuto: MH03BT1962\n\nTrip: Dombivli → Powai\n\nTime: \\~10:13 PM – 11:36 PM\n\nA complaint has already been raised with Uber support and we are considering reporting it to Mumbai Police as well.\n\nJust sharing this here so people stay alert while traveling late at night.\n\nHas anyone else faced something similar recently?",
+      "url": "https://reddit.com/r/india/comments/1rtx0yq/mumbai_uber_auto_driver_misbehaved_with_my_female/",
+      "created_utc": 1773527494.0,
+      "timestamp": "2026-03-15T04:01:34",
       "engagement": {
-        "upvotes": 0,
+        "upvotes": 28,
         "downvotes": 0,
         "comments": 1,
-        "score": 0
+        "score": 28
       },
-      "subreddit": "mumbai",
-      "flair": "Discussion",
+      "subreddit": "india",
+      "flair": "Crime",
       "sentiment": "neutral",
       "topics": [],
-      "summary": "Noticed more sharing taxis than buses from Churchgate to Gateway of India"
+      "summary": "Mumbai: Uber Auto Driver Misbehaved With My Female Friend, Demanded Extra Money and Tried Diverting Route at Night"
     },
     {
-      "id": "1rsphf2",
-      "source": "reddit_r/mumbai",
-      "author": "chachahindustani",
-      "title": "Roam late at night on activa from andheri",
-      "content": "I’m relatively new in mumbai, have an activa and free will! Wanted to explore mumbai, is it safe to go out on activa at night (11pm-4am). If yes where should I go? Open to all kinds of experiences. I am in andheri east so that will be my starting point. ",
-      "url": "https://reddit.com/r/mumbai/comments/1rsphf2/roam_late_at_night_on_activa_from_andheri/",
-      "created_utc": 1773413593.0,
-      "timestamp": "2026-03-13T20:23:13",
+      "id": "1rt9v84",
+      "source": "reddit_r/india",
+      "author": "No-Explanation4858",
+      "title": "Mid-20s, burnt out and overwhelmed. Does this phase actually get better?",
+      "content": "I’m in my mid-20s and living in Mumbai, and the last one year have felt like everything in life decided to pile up at once. Career uncertainty, financial pressure, family responsibilities, and health issues all seem to be happening at the same time.\n\nOver the last three months I’ve unintentionally lost around 13 kg because stress has completely killed my appetite. Most days I manage just one small meal and my energy levels are pretty low. Even basic things like going for a walk feel harder than they should.\n\nFinancially things have also been difficult. My parents retired nearly a decade ago with very little savings and that money has now run out, so a lot of responsibility has gradually shifted to me. Even when I was working, it felt like whatever I contributed was never really enough. Now that I’m jobless, the uncertainty feels heavier.\n\nLiving independently has also made me realise how quickly basic expenses add up when money is tight. Even simple necessities start becoming things you constantly calculate and worry about.\n\nAnother difficult part has been loneliness. I do have friends and acquaintances, but very few spaces where I feel comfortable opening up about what’s actually going on. Most conversations stay surface level, which sometimes makes everything feel even more isolating.\n\nRight now I mostly just feel burnt out and tired, like I’ve been running for a long time without things stabilizing.\n\nFor people who’ve gone through phases where career, finances, and family pressure all hit at the same time, how did you get through it? Did things eventually get better?\n\n(Took help of Chatgpt to structure my thoughts) ",
+      "url": "https://reddit.com/r/india/comments/1rt9v84/mid20s_burnt_out_and_overwhelmed_does_this_phase/",
+      "created_utc": 1773462276.0,
+      "timestamp": "2026-03-14T09:54:36",
       "engagement": {
-        "upvotes": 1,
+        "upvotes": 12,
         "downvotes": 0,
-        "comments": 1,
-        "score": 1
+        "comments": 9,
+        "score": 12
       },
-      "subreddit": "mumbai",
-      "flair": "AskMumbai",
+      "subreddit": "india",
+      "flair": "Health",
       "sentiment": "neutral",
       "topics": [],
-      "summary": "Roam late at night on activa from andheri"
+      "summary": "Mid-20s, burnt out and overwhelmed. Does this phase actually get better?"
     },
     {
-      "id": "1rspd0z",
-      "source": "reddit_r/mumbai",
-      "author": "Hour_Cap_1174",
-      "title": "Moved to Mumbai for undergrad and my flatmates made my life hell. How do you guys even find good roommates???",
-      "content": "Moved into an unfurnished flat and had to buy everything from scratch. Furniture, utensils, appliances, everything!! Wasn't expecting a palace but still.\n\nAnd the roommates man.. unhygienic doesn't even cover it. Kitchen was always a disaster, dishes piling up for days, friends showing up at midnight on weekdays like that's completely normal. Zero respect for personal space, never contributed to groceries, never dealt with the broker, never did anything for the house basically.\n\nOh and they stole my charger and two t-shirts. TWO T-SHIRTS. I dont even know what to say.\n\n3 years of this and im genuinely done with it.\n\nHow does anyone even find decent flatmates?? Facebook groups are useless, brokers dont care, and by the time you figure out what your roommate is actually like you've already signed the lease and paid the deposit.\n\nDid everyone just get lucky or is there actually a better way to do this???",
-      "url": "https://reddit.com/r/mumbai/comments/1rspd0z/moved_to_mumbai_for_undergrad_and_my_flatmates/",
-      "created_utc": 1773413314.0,
-      "timestamp": "2026-03-13T20:18:34",
+      "id": "1rt9gc7",
+      "source": "reddit_r/india",
+      "author": "mumbaiblues",
+      "title": "'Constantly humiliated, caused mental trauma': Mumbai dentist's chilling death note shocks kin; how troubled relationship ended in tragedy",
+      "content": "",
+      "url": "https://reddit.com/r/india/comments/1rt9gc7/constantly_humiliated_caused_mental_trauma_mumbai/",
+      "created_utc": 1773460991.0,
+      "timestamp": "2026-03-14T09:33:11",
       "engagement": {
-        "upvotes": 0,
+        "upvotes": 5,
         "downvotes": 0,
-        "comments": 8,
-        "score": 0
+        "comments": 2,
+        "score": 5
       },
-      "subreddit": "mumbai",
-      "flair": "Discussion",
+      "subreddit": "india",
+      "flair": "Crime",
       "sentiment": "neutral",
       "topics": [],
-      "summary": "Moved to Mumbai for undergrad and my flatmates made my life hell. How do you guys even find good roommates???"
-    },
-    {
-      "id": "1rspcco",
-      "source": "reddit_r/mumbai",
-      "author": "IndianJohnWick007",
-      "title": "Table at Americano",
-      "content": "Hi. To put it in short, my girlfriend really wants to go to Americano (Italian restaurant in Fort, Mumbai) and I cannot find any reservation options online. I tried connecting to the mobile numbers available on their website but couldn't. \nWanted any help or suggestions regarding the same, how can I get a table for 2 there (2 weeks later)?",
-      "url": "https://reddit.com/r/mumbai/comments/1rspcco/table_at_americano/",
-      "created_utc": 1773413270.0,
-      "timestamp": "2026-03-13T20:17:50",
-      "engagement": {
-        "upvotes": 46,
-        "downvotes": 0,
-        "comments": 15,
-        "score": 46
-      },
-      "subreddit": "mumbai",
-      "flair": "General",
-      "sentiment": "neutral",
-      "topics": [],
-      "summary": "Table at Americano"
+      "summary": "'Constantly humiliated, caused mental trauma': Mumbai dentist's chilling death note shocks kin; how troubled relationship ended in tragedy"
     },
     {
       "id": "1rshcgc",
@@ -234,10 +378,10 @@
       "created_utc": 1773389083.0,
       "timestamp": "2026-03-13T13:34:43",
       "engagement": {
-        "upvotes": 14,
+        "upvotes": 15,
         "downvotes": 0,
         "comments": 1,
-        "score": 14
+        "score": 15
       },
       "subreddit": "india",
       "flair": "Crime",
@@ -255,10 +399,10 @@
       "created_utc": 1773285043.0,
       "timestamp": "2026-03-12T08:40:43",
       "engagement": {
-        "upvotes": 5,
+        "upvotes": 7,
         "downvotes": 0,
         "comments": 1,
-        "score": 5
+        "score": 7
       },
       "subreddit": "india",
       "flair": "Politics",
@@ -318,10 +462,10 @@
       "created_utc": 1773078123.0,
       "timestamp": "2026-03-09T23:12:03",
       "engagement": {
-        "upvotes": 263,
+        "upvotes": 262,
         "downvotes": 0,
         "comments": 38,
-        "score": 263
+        "score": 262
       },
       "subreddit": "india",
       "flair": "Politics",
@@ -339,10 +483,10 @@
       "created_utc": 1772898617.0,
       "timestamp": "2026-03-07T21:20:17",
       "engagement": {
-        "upvotes": 1242,
+        "upvotes": 1246,
         "downvotes": 0,
-        "comments": 81,
-        "score": 1242
+        "comments": 82,
+        "score": 1246
       },
       "subreddit": "india",
       "flair": "Law &amp; Courts",
@@ -370,73 +514,10 @@
       "sentiment": "neutral",
       "topics": [],
       "summary": "Is an Online MBA from NMIMS (NGASCE) worth it? Need honest advice."
-    },
-    {
-      "id": "1rn530l",
-      "source": "reddit_r/india",
-      "author": "ExtensionForce4354",
-      "title": "As modern life gets busier, are more people in India turning toward spirituality again?",
-      "content": "Hello everyone,\n\nI was born and brought up in Mumbai, a city that has always been fast, intense and constantly moving. Over the years I’ve watched how the pace of life across many parts of India has steadily picked up, long commutes in big cities, financial responsibilities, and the general rush of modern life and over all development \n\nAt the same time, I’ve been noticing another interesting shift around the country. Crystals, meditation circles, spiritual workshops, energy practices and discussions around esoteric traditions or even para - normal experiences seem far more common now than they used to be, in person or social media boom\n\nHaving spent many years working with crystals and studying different spiritual and esoteric traditions, and being involved in paranormal investigations and mediumship work, it’s been quite interesting for me to watch this curiosity slowly becoming more visible in everyday conversations.\n\nIt also feels like more and more people are naturally inclining/ returning toward these kinds of practices or traditions at certain points in their lives, sometimes searching for balance, meaning, or simply a different way of understanding their experiences.\n\nIt makes me wonder about something though.\n\nIs the rising stress of modern life pushing more people toward spirituality and these practices in search of balance?\nOr is the growing awareness of these traditions simply making us notice them more around us?\n\nJust something I’ve been observing over time, and I’m curious how others across India see this shift.",
-      "url": "https://reddit.com/r/india/comments/1rn530l/as_modern_life_gets_busier_are_more_people_in/",
-      "created_utc": 1772873325.0,
-      "timestamp": "2026-03-07T14:18:45",
-      "engagement": {
-        "upvotes": 0,
-        "downvotes": 0,
-        "comments": 3,
-        "score": 0
-      },
-      "subreddit": "india",
-      "flair": "Culture &amp; Heritage ",
-      "sentiment": "neutral",
-      "topics": [],
-      "summary": "As modern life gets busier, are more people in India turning toward spirituality again?"
-    },
-    {
-      "id": "1rmn6qw",
-      "source": "reddit_r/india",
-      "author": "Curiousafari",
-      "title": "26M Left a 23k BPO job for engineering career, now getting 12–18k offers. Did i make a mistake?",
-      "content": "Hi everyone,\nI’m 26 and completed my BTech in Electrical Engineering in 2023 from a tier 3 college\nAfter graduating, I worked in a BPO/operations role earning around ₹23k/month. But the work felt repetitive and didn’t seem to have much long-term growth, so I left it to try building a career in engineering.\nAfter about 3–4 months of unemployment, I finally got two offers in the Electrical MEP field:\nMumbai – Electrical MEP role (design calculations + AutoCAD), ₹18k/month. However, the company has some reviews online saying salaries are sometimes delayed.\nSurat – Electrical MEP role (drafting + calculations), ₹12k for 3 months → ₹15k after. Small company (~30 employees).\nAt the same time, I also recently received another BPO offer of around ₹28k/month, which is much higher than these engineering salaries.\nNow I’m confused. If I go back to BPO, the pay is better immediately. But if I stay in electrical engineering, it might have a better future in the next few years since it’s a skill-based field.\nDid I make the wrong decision leaving the BPO job, and should I go back to it or continue in engineering for the long term?",
-      "url": "https://reddit.com/r/india/comments/1rmn6qw/26m_left_a_23k_bpo_job_for_engineering_career_now/",
-      "created_utc": 1772824390.0,
-      "timestamp": "2026-03-07T00:43:10",
-      "engagement": {
-        "upvotes": 11,
-        "downvotes": 0,
-        "comments": 19,
-        "score": 11
-      },
-      "subreddit": "india",
-      "flair": "Careers",
-      "sentiment": "neutral",
-      "topics": [],
-      "summary": "26M Left a 23k BPO job for engineering career, now getting 12–18k offers. Did i make a mistake?"
-    },
-    {
-      "id": "1rla9eu",
-      "source": "reddit_r/india",
-      "author": "Cybertronian1512",
-      "title": "Filmmaker Anand Patwardhan denied entry at Mumbai University",
-      "content": "",
-      "url": "https://reddit.com/r/india/comments/1rla9eu/filmmaker_anand_patwardhan_denied_entry_at_mumbai/",
-      "created_utc": 1772692190.0,
-      "timestamp": "2026-03-05T11:59:50",
-      "engagement": {
-        "upvotes": 214,
-        "downvotes": 0,
-        "comments": 4,
-        "score": 214
-      },
-      "subreddit": "india",
-      "flair": "Politics",
-      "sentiment": "neutral",
-      "topics": [],
-      "summary": "Filmmaker Anand Patwardhan denied entry at Mumbai University"
     }
   ],
   "cost_tracking": {
-    "tokens_used": 0,
-    "estimated_cost": 0.0
+    "tokens_used": 2500,
+    "estimated_cost": 0.0020000000000000005
   }
 }

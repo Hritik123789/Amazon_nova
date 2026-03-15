@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-14T00:36:45.233867",
+  "generated_at": "2026-03-15T19:54:42.426084",
   "target_area": "Mumbai",
   "basic_topics": {
     "top_social_topics": [
@@ -13,12 +13,64 @@
         "topic": "metro_transport",
         "mentions": 9,
         "engagement": 84,
-        "trend_score": 0.0
+        "trend_score": 9.2
+      },
+      {
+        "topic": "normal",
+        "mentions": 6,
+        "engagement": 90,
+        "trend_score": 5.9
+      },
+      {
+        "topic": "travel",
+        "mentions": 6,
+        "engagement": 69,
+        "trend_score": 5.5
+      },
+      {
+        "topic": "everyone",
+        "mentions": 6,
+        "engagement": 39,
+        "trend_score": 4.6
+      },
+      {
+        "topic": "around",
+        "mentions": 4,
+        "engagement": 32,
+        "trend_score": 2.5
+      },
+      {
+        "topic": "career",
+        "mentions": 4,
+        "engagement": 32,
+        "trend_score": 2.5
+      },
+      {
+        "topic": "years",
+        "mentions": 3,
+        "engagement": 12,
+        "trend_score": 0.9
+      },
+      {
+        "topic": "local",
+        "mentions": 3,
+        "engagement": 11,
+        "trend_score": 0.8
+      },
+      {
+        "topic": "looking",
+        "mentions": 3,
+        "engagement": 7,
+        "trend_score": 0.5
       }
     ],
     "top_news_topics": [
       {
         "topic": "civic",
+        "mentions": 2
+      },
+      {
+        "topic": "notices",
         "mentions": 2
       },
       {
@@ -52,10 +104,6 @@
       {
         "topic": "strict",
         "mentions": 1
-      },
-      {
-        "topic": "action",
-        "mentions": 1
       }
     ],
     "news_categories": [
@@ -88,40 +136,158 @@
     "trending_topics": [
       {
         "topic": "airport_transport",
-        "trend_score": 9,
-        "category": "social",
+        "trend_score": 10.0,
+        "category": "transport",
         "sentiment": "neutral",
-        "description": "Frequently mentioned in community discussions"
+        "description": "Mentioned 6 times with 1316 engagements"
       },
       {
         "topic": "metro_transport",
-        "trend_score": 8,
-        "category": "social",
+        "trend_score": 9.2,
+        "category": "transport",
         "sentiment": "neutral",
-        "description": "Frequently mentioned in community discussions"
+        "description": "Mentioned 9 times with 84 engagements"
+      },
+      {
+        "topic": "travel",
+        "trend_score": 5.5,
+        "category": "transport",
+        "sentiment": "neutral",
+        "description": "Mentioned 6 times with 69 engagements"
       }
     ],
     "community_concerns": [
       {
-        "concern": "General community discussions",
+        "concern": "Reliability and efficiency of airport transport",
+        "severity": "high",
+        "affected_areas": [
+          "Western Suburbs",
+          "Central Mumbai"
+        ],
+        "recommendation": "Implement regular maintenance schedules and introduce real-time tracking systems for airport transport"
+      },
+      {
+        "concern": "Accessibility of metro transport for all residents",
         "severity": "medium",
         "affected_areas": [
-          "Mumbai"
+          "Eastern Suburbs",
+          "South Mumbai"
         ],
-        "recommendation": "Monitor ongoing discussions"
+        "recommendation": "Expand metro lines to underserved areas and ensure stations are accessible for people with disabilities"
       }
     ],
     "overall_sentiment": {
       "mood": "neutral",
       "key_drivers": [
-        "Community engagement",
-        "Local discussions"
+        "airport_transport",
+        "metro_transport",
+        "travel"
       ],
-      "notable_changes": []
+      "notable_changes": [
+        "high engagement on airport transport"
+      ]
+    },
+    "topic_clusters": {
+      "clusters": [
+        {
+          "main_topic": "airport_transport",
+          "related_topics": [],
+          "total_mentions": 6,
+          "trend_score": 10.0
+        },
+        {
+          "main_topic": "metro_transport",
+          "related_topics": [],
+          "total_mentions": 9,
+          "trend_score": 9.2
+        },
+        {
+          "main_topic": "normal",
+          "related_topics": [],
+          "total_mentions": 6,
+          "trend_score": 5.9
+        },
+        {
+          "main_topic": "travel",
+          "related_topics": [],
+          "total_mentions": 6,
+          "trend_score": 5.5
+        },
+        {
+          "main_topic": "everyone",
+          "related_topics": [],
+          "total_mentions": 6,
+          "trend_score": 4.6
+        },
+        {
+          "main_topic": "around",
+          "related_topics": [],
+          "total_mentions": 4,
+          "trend_score": 2.5
+        },
+        {
+          "main_topic": "career",
+          "related_topics": [],
+          "total_mentions": 4,
+          "trend_score": 2.5
+        },
+        {
+          "main_topic": "years",
+          "related_topics": [],
+          "total_mentions": 3,
+          "trend_score": 0.9
+        },
+        {
+          "main_topic": "local",
+          "related_topics": [],
+          "total_mentions": 3,
+          "trend_score": 0.8
+        },
+        {
+          "main_topic": "looking",
+          "related_topics": [],
+          "total_mentions": 3,
+          "trend_score": 0.5
+        }
+      ],
+      "total_topics_analyzed": 10,
+      "embedding_cost": 9.999999999999999e-06
+    },
+    "topic_relationships": {
+      "relationships": [
+        {
+          "topic1": "airport_transport",
+          "topic2": "metro_transport",
+          "connection": "Both airport and metro transport systems are essential components of urban mobility, facilitating travel for everyone within the city.",
+          "strength": "high"
+        },
+        {
+          "topic1": "airport_transport",
+          "topic2": "travel",
+          "connection": "Airport transport is crucial for enabling travel to and from the airport, which is a key aspect of overall travel within and beyond the city.",
+          "strength": "high"
+        },
+        {
+          "topic1": "metro_transport",
+          "topic2": "travel",
+          "connection": "Metro transport systems provide a vital mode of travel for everyone within the urban area, enhancing accessibility and connectivity.",
+          "strength": "high"
+        },
+        {
+          "topic1": "normal",
+          "topic2": "everyone",
+          "connection": "The term 'normal' in the context of civic issues refers to the standard practices and services that should be accessible to everyone, including public transport.",
+          "strength": "medium"
+        }
+      ]
     }
   },
   "metadata": {
-    "tokens_used": 0,
-    "estimated_cost": 0.0
+    "tokens_used": 1660,
+    "estimated_cost": 0.00021994,
+    "enhanced_features": [
+      "embeddings_clustering",
+      "topic_relationships"
+    ]
   }
 }

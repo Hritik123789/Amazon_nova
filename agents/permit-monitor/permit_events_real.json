@@ -1,7 +1,7 @@
 {
-  "collected_at": "2026-03-14T00:36:43.844268",
+  "collected_at": "2026-03-15T19:54:32.476266",
   "source_count": 3,
-  "event_count": 8,
+  "event_count": 7,
   "sources": [
     "MahaRERA",
     "BMC",
@@ -12,8 +12,8 @@
       "event_type": "real_estate_project",
       "source": "MahaRERA",
       "location": "Nagpur, Mumbai",
-      "timestamp": "2026-03-14T00:36:37.014238",
-      "description": "GREEN CITY 3 - Unknown Promoter",
+      "timestamp": "2026-03-15T19:54:21.527646",
+      "description": "A real estate project named GREEN CITY 3 in Nagpur, Mumbai, promoted by an unknown entity, has been registered with MahaRERA.",
       "metadata": {
         "project_name": "GREEN CITY 3",
         "promoter": "Unknown Promoter",
@@ -21,14 +21,15 @@
         "registration_number": "N/A",
         "url": "https://maharera.maharashtra.gov.in/projects-search-result?page=1",
         "data_source": "maharera_selenium"
-      }
+      },
+      "category": "real_estate"
     },
     {
       "event_type": "real_estate_project",
       "source": "MahaRERA",
       "location": "Thane, Mumbai",
-      "timestamp": "2026-03-14T00:36:37.014238",
-      "description": "UNNATHI WOODS PHASE VII A - Unknown Promoter",
+      "timestamp": "2026-03-15T19:54:21.527646",
+      "description": "A new real estate project named UNNATHI WOODS PHASE VII A by an unknown promoter is registered in Thane, Mumbai.",
       "metadata": {
         "project_name": "UNNATHI WOODS PHASE VII A",
         "promoter": "Unknown Promoter",
@@ -36,14 +37,15 @@
         "registration_number": "N/A",
         "url": "https://maharera.maharashtra.gov.in/projects-search-result?page=1",
         "data_source": "maharera_selenium"
-      }
+      },
+      "category": "real_estate"
     },
     {
       "event_type": "real_estate_project",
       "source": "MahaRERA",
       "location": "Thane, Mumbai",
-      "timestamp": "2026-03-14T00:36:37.014238",
-      "description": "MAYFAIR VISHWARAJA - Unknown Promoter",
+      "timestamp": "2026-03-15T19:54:21.527646",
+      "description": "A new real estate project named MAYFAIR VISHWARAJA by an unknown promoter is being registered in Thane, Mumbai.",
       "metadata": {
         "project_name": "MAYFAIR VISHWARAJA",
         "promoter": "Unknown Promoter",
@@ -51,72 +53,65 @@
         "registration_number": "N/A",
         "url": "https://maharera.maharashtra.gov.in/projects-search-result?page=1",
         "data_source": "maharera_selenium"
-      }
+      },
+      "category": "real_estate"
     },
     {
       "event_type": "community_discussion",
       "source": "Reddit_r/mumbai",
       "location": "Mumbai",
-      "timestamp": "2026-03-14T00:36:40.735593",
-      "description": "Paul Mitchell owner's Balinese-style estate came on the market in Hawaii ($32.5 million)",
+      "timestamp": "2026-03-15T19:54:25.583629",
+      "description": "A community discussion on Reddit about the construction of a Home Depot in Mumbai.",
       "metadata": {
-        "url": "https://reddit.com/r/zillowgonewild/comments/1rswh4m/paul_mitchell_owners_balinesestyle_estate_came_on/",
+        "url": "https://reddit.com/r/fortmac/comments/1ruf8n4/home_depot_construction/",
+        "platform": "reddit",
+        "topic": "construction_development",
+        "upvotes": 1
+      },
+      "category": "commercial"
+    },
+    {
+      "event_type": "community_discussion",
+      "source": "Reddit_r/mumbai",
+      "location": "Mumbai",
+      "timestamp": "2026-03-15T19:54:25.583629",
+      "description": "A Reddit discussion about concealed carry ROTC in Mumbai.",
+      "metadata": {
+        "url": "https://reddit.com/r/u_duckcrime/comments/1ruf8fd/concealed_carry_rotc/",
+        "platform": "reddit",
+        "topic": "construction_development",
+        "upvotes": 1
+      },
+      "category": "safety"
+    },
+    {
+      "event_type": "community_discussion",
+      "source": "Reddit_r/mumbai",
+      "location": "Mumbai",
+      "timestamp": "2026-03-15T19:54:25.583629",
+      "description": "👋 Welcome to r/1472583691472 - Introduce Yourself and Read First!",
+      "metadata": {
+        "url": "https://reddit.com/r/1472583691472/comments/1ruf80x/welcome_to_r1472583691472_introduce_yourself_and/",
         "platform": "reddit",
         "topic": "construction_development",
         "upvotes": 1
       }
     },
     {
-      "event_type": "community_discussion",
-      "source": "Reddit_r/mumbai",
-      "location": "Sion, Mumbai",
-      "timestamp": "2026-03-14T00:36:40.735593",
-      "description": "NotebookLM Cinematic Video Generator Just Made AI Video Creation Easy",
-      "metadata": {
-        "url": "https://reddit.com/r/AISEOInsider/comments/1rswfl9/notebooklm_cinematic_video_generator_just_made_ai/",
-        "platform": "reddit",
-        "topic": "construction_development",
-        "upvotes": 1
-      }
-    },
-    {
-      "event_type": "community_discussion",
-      "source": "Reddit_r/mumbai",
-      "location": "Sion, Mumbai",
-      "timestamp": "2026-03-14T00:36:40.735593",
-      "description": "👋Welcome to r/spoiledsurvivorcj - Introduce Yourself and Read First!",
-      "metadata": {
-        "url": "https://reddit.com/r/spoiledsurvivorcj/comments/1rswfk1/welcome_to_rspoiledsurvivorcj_introduce_yourself/",
-        "platform": "reddit",
-        "topic": "construction_development",
-        "upvotes": 2
-      }
-    },
-    {
       "event_type": "liquor_license",
-      "source": "Maharashtra_Excise",
-      "location": "Bandra West, Mumbai",
-      "timestamp": "2026-03-14T00:36:42.364499",
-      "description": "New FL-II license issued for restaurant - Coconut Boy",
+      "source": "Community_Reports",
+      "location": "Mumbai",
+      "timestamp": "2026-03-15T19:54:27.411165",
+      "description": "Whats even the point",
       "metadata": {
-        "license_type": "FL-II",
-        "establishment": "restaurant"
-      }
-    },
-    {
-      "event_type": "liquor_license",
-      "source": "Maharashtra_Excise",
-      "location": "Lower Parel, Mumbai",
-      "timestamp": "2026-03-14T00:36:42.364499",
-      "description": "FL-III license renewal for bar - Phoenix Mills",
-      "metadata": {
-        "license_type": "FL-III",
-        "establishment": "bar"
+        "url": "https://reddit.com/r/vegan/comments/1ruf93r/whats_even_the_point/",
+        "platform": "reddit",
+        "topic": "commercial_license"
       }
     }
   ],
   "cost_tracking": {
-    "tokens_used": 0,
-    "estimated_cost": 0.0
+    "tokens_used": 1500,
+    "estimated_cost": 0.001
   }
 }
