@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CityPulse - AI-Powered Civic Intelligence</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="nav-container">
+            <div class="nav-brand">
+                <i class="fas fa-city"></i>
+                <span>CityPulse</span>
+            </div>
+            <div class="nav-links">
+                <a href="#home" class="nav-link active">Home</a>
+                <a href="#features" class="nav-link">Features</a>
+                <a href="#alerts" class="nav-link">Alerts</a>
+                <a href="#insights" class="nav-link">Insights</a>
+                <a href="#voice" class="nav-link">Voice AI</a>
+            </div>
+            <div class="nav-actions">
+                <button class="notification-btn" id="notificationBtn">
+                    <i class="fas fa-bell"></i>
+                    <span class="notification-badge">5</span>
+                </button>
+                <button class="voice-btn" id="voiceBtn">
+                    <i class="fas fa-microphone"></i>
+                </button>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section id="home" class="hero">
+        <div class="hero-background">
+            <canvas id="heroCanvas"></canvas>
+        </div>
+        <div class="hero-content">
+            <h1 class="hero-title">
+                <span class="gradient-text">AI-Powered</span><br>
+                Civic Intelligence for Mumbai
+            </h1>
+            <p class="hero-subtitle">
+                Real-time insights, smart alerts, and community intelligence powered by Amazon Nova
+            </p>
+            <div class="hero-actions">
+                <button class="btn btn-primary" onclick="scrollToSection('features')">
+                    Explore Features
+                    <i class="fas fa-arrow-right"></i>
+                </button>
+                <button class="btn btn-secondary" onclick="scrollToSection('voice')">
+                    <i class="fas fa-microphone"></i>
+                    Try Voice AI
+                </button>
+            </div>
+            <div class="hero-stats">
+                <div class="stat-item">
+                    <div class="stat-number">11</div>
+                    <div class="stat-label">AI Agents</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-number">500+</div>
+                    <div class="stat-label">Data Points</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-number">Real-time</div>
+                    <div class="stat-label">Updates</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Features Section -->
+    <section id="features" class="features">
+        <div class="container">
+            <h2 class="section-title">Powered by Amazon Nova</h2>
+            <p class="section-subtitle">Advanced AI features for civic intelligence</p>
+            
+            <div class="features-grid">
+                <div class="feature-card" data-aos="fade-up">
+                    <div class="feature-icon">
+                        <i class="fas fa-brain"></i>
+                    </div>
+                    <h3>Community Pulse</h3>
+                    <p>AI-powered topic clustering and sentiment analysis from social media and news</p>
+                    <div class="feature-tech">
+                        <span class="tech-badge">Nova 2 Lite</span>
+                        <span class="tech-badge">Titan Embeddings</span>
+                    </div>
+                </div>
+
+                <div class="feature-card" data-aos="fade-up" data-aos-delay="100">
+                    <div class="feature-icon">
+                        <i class="fas fa-shield-alt"></i>
+                    </div>
+                    <h3>Safety Intelligence</h3>
+                    <p>Real-time safety alerts from image analysis, news, and social monitoring</p>
+                    <div class="feature-tech">
+                        <span class="tech-badge">Nova 2 Omni</span>
+                        <span class="tech-badge">Nova 2 Lite</span>
+                    </div>
+                </div>
+
+                <div class="feature-card" data-aos="fade-up" data-aos-delay="200">
+                    <div class="feature-icon">
+                        <i class="fas fa-chart-line"></i>
+                    </div>
+                    <h3>Investment Insights</h3>
+                    <p>Neighborhood development trends and investment potential analysis</p>
+                    <div class="feature-tech">
+                        <span class="tech-badge">Nova 2 Lite</span>
+                    </div>
+                </div>
+
+                <div class="feature-card" data-aos="fade-up" data-aos-delay="300">
+                    <div class="feature-icon">
+                        <i class="fas fa-microphone-alt"></i>
+                    </div>
+                    <h3>Voice Q&A</h3>
+                    <p>Natural language queries with voice responses using neural TTS</p>
+                    <div class="feature-tech">
+                        <span class="tech-badge">Nova 2 Lite</span>
+                        <span class="tech-badge">Polly Neural</span>
+                    </div>
+                </div>
+
+                <div class="feature-card" data-aos="fade-up" data-aos-delay="400">
+                    <div class="feature-icon">
+                        <i class="fas fa-search"></i>
+                    </div>
+                    <h3>RAG Q&A System</h3>
+                    <p>Semantic search across 500+ documents with source citations</p>
+                    <div class="feature-tech">
+                        <span class="tech-badge">Titan Embeddings</span>
+                        <span class="tech-badge">FAISS</span>
+                    </div>
+                </div>
+
+                <div class="feature-card" data-aos="fade-up" data-aos-delay="500">
+                    <div class="feature-icon">
+                        <i class="fas fa-bell"></i>
+                    </div>
+                    <h3>Smart Alerts</h3>
+                    <p>AI-prioritized notifications for permits, businesses, and community events</p>
+                    <div class="feature-tech">
+                        <span class="tech-badge">Nova 2 Lite</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Alerts Dashboard -->
+    <section id="alerts" class="alerts-section">
+        <div class="container">
+            <h2 class="section-title">Live Alerts Dashboard</h2>
+            <p class="section-subtitle">Real-time notifications from across Mumbai</p>
+            
+            <div class="alerts-container">
+                <div class="alerts-sidebar">
+                    <button class="alert-filter active" data-filter="all">
+                        <i class="fas fa-th"></i> All Alerts
+                    </button>
+                    <button class="alert-filter" data-filter="safety">
+                        <i class="fas fa-shield-alt"></i> Safety
+                    </button>
+                    <button class="alert-filter" data-filter="development">
+                        <i class="fas fa-building"></i> Development
+                    </button>
+                    <button class="alert-filter" data-filter="community">
+                        <i class="fas fa-users"></i> Community
+                    </button>
+                    <button class="alert-filter" data-filter="business">
+                        <i class="fas fa-store"></i> Business
+                    </button>
+                </div>
+                
+                <div class="alerts-content" id="alertsContent">
+                    <!-- Alerts will be loaded here -->
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Insights Section -->
+    <section id="insights" class="insights-section">
+        <div class="container">
+            <h2 class="section-title">Community Insights</h2>
+            <p class="section-subtitle">AI-powered analysis of trending topics</p>
+            
+            <div class="insights-grid">
+                <div class="insight-card large" id="topicClusters">
+                    <h3><i class="fas fa-project-diagram"></i> Topic Clusters</h3>
+                    <div class="cluster-viz" id="clusterViz"></div>
+                </div>
+                
+                <div class="insight-card">
+                    <h3><i class="fas fa-fire"></i> Trending Topics</h3>
+                    <div id="trendingTopics"></div>
+                </div>
+                
+                <div class="insight-card">
+                    <h3><i class="fas fa-map-marker-alt"></i> Investment Hotspots</h3>
+                    <div id="investmentHotspots"></div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Voice AI Section -->
+    <section id="voice" class="voice-section">
+        <div class="container">
+            <div class="voice-container">
+                <div class="voice-visual">
+                    <canvas id="voiceCanvas"></canvas>
+                    <div class="voice-orb" id="voiceOrb"></div>
+                </div>
+                
+                <div class="voice-content">
+                    <h2>Voice AI Assistant</h2>
+                    <p>Ask me anything about Mumbai - powered by Amazon Nova & Polly</p>
+                    
+                    <div class="voice-input-container">
+                        <input type="text" id="voiceInput" placeholder="Ask about safety alerts, trending topics, or neighborhoods..." class="voice-input">
+                        <button class="voice-submit-btn" id="voiceSubmitBtn">
+                            <i class="fas fa-paper-plane"></i>
+                        </button>
+                    </div>
+                    
+                    <div class="voice-suggestions">
+                        <button class="suggestion-chip" data-question="What are the trending topics in Mumbai?">
+                            Trending topics
+                        </button>
+                        <button class="suggestion-chip" data-question="Are there any safety alerts?">
+                            Safety alerts
+                        </button>
+                        <button class="suggestion-chip" data-question="Which neighborhoods are good for investment?">
+                            Investment areas
+                        </button>
+                    </div>
+                    
+                    <div class="voice-response" id="voiceResponse"></div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-brand">
+                    <i class="fas fa-city"></i>
+                    <span>CityPulse</span>
+                    <p>AI-Powered Civic Intelligence</p>
+                </div>
+                <div class="footer-tech">
+                    <h4>Powered By</h4>
+                    <div class="tech-logos">
+                        <span>Amazon Nova 2</span>
+                        <span>Amazon Bedrock</span>
+                        <span>Amazon Polly</span>
+                        <span>Titan Embeddings</span>
+                    </div>
+                </div>
+                <div class="footer-stats">
+                    <h4>Performance</h4>
+                    <p>Cost: ~$0.02 per run</p>
+                    <p>Latency: 1-2s per query</p>
+                    <p>Accuracy: 95%+</p>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2026 CityPulse. Built for Amazon Nova Hackathon.</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Notification Panel -->
+    <div class="notification-panel" id="notificationPanel">
+        <div class="notification-header">
+            <h3>Notifications</h3>
+            <button class="close-btn" id="closeNotifications">
+                <i class="fas fa-times"></i>
+            </button>
+        </div>
+        <div class="notification-list" id="notificationList">
+            <!-- Notifications will be loaded here -->
+        </div>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
